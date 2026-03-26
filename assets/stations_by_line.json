@@ -1,0 +1,8066 @@
+{
+  "101": [
+    {
+      "id": "station_satigny",
+      "label": "B",
+      "code": "SY",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "101"
+    },
+    {
+      "id": "station_vernier_meyrin",
+      "label": "B",
+      "code": "VM",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "101"
+    },
+    {
+      "id": "station_la_plaine",
+      "label": "B",
+      "code": "LP",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "101"
+    },
+    {
+      "id": "station_genève",
+      "label": "B",
+      "code": "GE",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "101"
+    },
+    {
+      "id": "station_russin",
+      "label": "B",
+      "code": "RUS",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "101"
+    },
+    {
+      "id": "station_zimeysa",
+      "label": "B",
+      "code": "ZIM",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "101"
+    },
+    {
+      "id": "station_châtelaine",
+      "label": "B",
+      "code": "CHNE",
+      "typ": "unoccupied_station",
+      "tanklager": null,
+      "line": "101"
+    },
+    {
+      "id": "station_vernier_meyrin_cargo",
+      "label": "B",
+      "code": "VMC",
+      "typ": "unoccupied_station",
+      "tanklager": null,
+      "line": "101"
+    }
+  ],
+  "102": [
+    {
+      "id": "station_la_praille",
+      "label": "B",
+      "code": "GEPR",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "102"
+    },
+    {
+      "id": "station_champet_hôpital",
+      "label": "B",
+      "code": null,
+      "typ": "Station",
+      "tanklager": null,
+      "line": "102"
+    },
+    {
+      "id": "station_chêne-bourg",
+      "label": "B",
+      "code": "CHEB",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "102"
+    },
+    {
+      "id": "station_carouge_bachet",
+      "label": "B",
+      "code": null,
+      "typ": "Station",
+      "tanklager": null,
+      "line": "102"
+    },
+    {
+      "id": "station_stade",
+      "label": "B",
+      "code": "GEST",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "102"
+    },
+    {
+      "id": "station_lancy_pont_rouge",
+      "label": "B",
+      "code": "LAPR",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "102"
+    },
+    {
+      "id": "station_genève-eaux-vives",
+      "label": "B",
+      "code": "GEV",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "102"
+    }
+  ],
+  "111": [
+    {
+      "id": "station_lausanne",
+      "label": "B",
+      "code": "LS",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "111"
+    },
+    {
+      "id": "station_lausanne_triage",
+      "label": "B",
+      "code": "LTD",
+      "typ": "unoccupied_station",
+      "tanklager": null,
+      "line": "111"
+    },
+    {
+      "id": "station_allaman",
+      "label": "B",
+      "code": "ALL",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "111"
+    },
+    {
+      "id": "station_st_prex",
+      "label": "B",
+      "code": "STP",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "111"
+    },
+    {
+      "id": "station_morges",
+      "label": "B",
+      "code": "MOR",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "111"
+    },
+    {
+      "id": "station_renens",
+      "label": "B",
+      "code": "REN",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "111"
+    },
+    {
+      "id": "station_rolle",
+      "label": "B",
+      "code": "ROL",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "111"
+    },
+    {
+      "id": "station_perroy",
+      "label": "B",
+      "code": "PER",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "111"
+    },
+    {
+      "id": "station_denges",
+      "label": "B",
+      "code": "DEN",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "111"
+    },
+    {
+      "id": "station_lonay_préverenges",
+      "label": "B",
+      "code": "LON",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "111"
+    },
+    {
+      "id": "station_morges_st_jean",
+      "label": "B",
+      "code": "STJ",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "111"
+    },
+    {
+      "id": "station_gilly_bursinel",
+      "label": "B",
+      "code": "GIBU",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "111"
+    },
+    {
+      "id": "station_gland",
+      "label": "B",
+      "code": "GLA",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "111"
+    },
+    {
+      "id": "station_nyon",
+      "label": "B",
+      "code": "NY",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "111"
+    },
+    {
+      "id": "station_coppet",
+      "label": "B",
+      "code": "COP",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "111"
+    },
+    {
+      "id": "station_versoix",
+      "label": "B",
+      "code": "VSX",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "111"
+    },
+    {
+      "id": "station_genève-aéroport",
+      "label": "B",
+      "code": "GEAP",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "111"
+    },
+    {
+      "id": "station_céligny",
+      "label": "B",
+      "code": null,
+      "typ": "unoccupied_station",
+      "tanklager": null,
+      "line": "111"
+    },
+    {
+      "id": "station_crans",
+      "label": "B",
+      "code": null,
+      "typ": "unoccupied_station",
+      "tanklager": null,
+      "line": "111"
+    },
+    {
+      "id": "station_creux_de_genthod",
+      "label": "B",
+      "code": "CRGD",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "111"
+    },
+    {
+      "id": "station_founex",
+      "label": "B",
+      "code": null,
+      "typ": "unoccupied_station",
+      "tanklager": null,
+      "line": "111"
+    },
+    {
+      "id": "station_genthod_bellevue",
+      "label": "B",
+      "code": "GDBE",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "111"
+    },
+    {
+      "id": "station_mies",
+      "label": "B",
+      "code": null,
+      "typ": "unoccupied_station",
+      "tanklager": null,
+      "line": "111"
+    },
+    {
+      "id": "station_pont_céard",
+      "label": "B",
+      "code": "PTC",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "111"
+    },
+    {
+      "id": "station_tannay",
+      "label": "B",
+      "code": "TAN",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "111"
+    },
+    {
+      "id": "station_les_tuileries",
+      "label": "B",
+      "code": "TUI",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "111"
+    },
+    {
+      "id": "station_genève-sécheron",
+      "label": "B",
+      "code": "GESE",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "111"
+    },
+    {
+      "id": "station_etoy",
+      "label": "B",
+      "code": "ETOY",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "111"
+    },
+    {
+      "id": "station_prangins",
+      "label": "B",
+      "code": "PRN",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "111"
+    },
+    {
+      "id": "station_tolochenaz",
+      "label": "B",
+      "code": "TOL",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "111"
+    }
+  ],
+  "121": [
+    {
+      "id": "station_schmitten",
+      "label": "B",
+      "code": "SCMI",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "121"
+    },
+    {
+      "id": "station_thörishaus",
+      "label": "B",
+      "code": "THO",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "121"
+    },
+    {
+      "id": "station_düdingen",
+      "label": "B",
+      "code": "DUED",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "121"
+    },
+    {
+      "id": "station_bern_bümpliz_süd",
+      "label": "B",
+      "code": "BNBS",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "121"
+    },
+    {
+      "id": "station_romont",
+      "label": "B",
+      "code": "ROM",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "121"
+    },
+    {
+      "id": "station_rosé",
+      "label": "B",
+      "code": "ROS",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "121"
+    },
+    {
+      "id": "station_siviriez",
+      "label": "B",
+      "code": "SIV",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "121"
+    },
+    {
+      "id": "station_oron",
+      "label": "B",
+      "code": "OR",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "121"
+    },
+    {
+      "id": "station_conversion",
+      "label": "B",
+      "code": "CVN",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "121"
+    },
+    {
+      "id": "station_grandvaux",
+      "label": "B",
+      "code": "GRV",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "121"
+    },
+    {
+      "id": "station_puidoux_chebres",
+      "label": "B",
+      "code": "PUI",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "121"
+    },
+    {
+      "id": "station_fribourg",
+      "label": "B",
+      "code": "FRI",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "121"
+    },
+    {
+      "id": "station_palézieux",
+      "label": "B",
+      "code": "PAL",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "121"
+    },
+    {
+      "id": "station_laupen",
+      "label": "B",
+      "code": "LPN",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "121"
+    },
+    {
+      "id": "station_flamatt",
+      "label": "B",
+      "code": "FLM",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "121"
+    },
+    {
+      "id": "station_bossière",
+      "label": "B",
+      "code": "BOSS",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "121"
+    },
+    {
+      "id": "station_chénens",
+      "label": "B",
+      "code": "CHE",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "121"
+    },
+    {
+      "id": "station_cottens",
+      "label": "B",
+      "code": "COT",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "121"
+    },
+    {
+      "id": "station_fillistorf",
+      "label": "B",
+      "code": "FIL",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "121"
+    },
+    {
+      "id": "station_moreillon",
+      "label": "B",
+      "code": "MRL",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "121"
+    },
+    {
+      "id": "station_matran",
+      "label": "B",
+      "code": "MTR",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "121"
+    },
+    {
+      "id": "station_neyruz",
+      "label": "B",
+      "code": "NEY",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "121"
+    },
+    {
+      "id": "station_pully_nord",
+      "label": "B",
+      "code": "PUN",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "121"
+    },
+    {
+      "id": "station_vauderens",
+      "label": "B",
+      "code": "VD",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "121"
+    },
+    {
+      "id": "station_villars_sur_glâne",
+      "label": "B",
+      "code": "VG",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "121"
+    },
+    {
+      "id": "station_villaz_st_pierre",
+      "label": "B",
+      "code": "VZ",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "121"
+    },
+    {
+      "id": "station_wünnewil",
+      "label": "B",
+      "code": "WUE",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "121"
+    },
+    {
+      "id": "station_thörishaus_dorf",
+      "label": "B",
+      "code": "THOD",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "121"
+    },
+    {
+      "id": "station_niederwangen",
+      "label": "B",
+      "code": "NWA",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "121"
+    },
+    {
+      "id": "station_oberwangen",
+      "label": "B",
+      "code": "OWA",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "121"
+    },
+    {
+      "id": "station_bern_ausserholligen_sbb",
+      "label": "B",
+      "code": "BNAS",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "121"
+    },
+    {
+      "id": "station_flamatt_dorf",
+      "label": "B",
+      "code": "FLMD",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "121"
+    },
+    {
+      "id": "station_neuenegg",
+      "label": "B",
+      "code": "NGG",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "121"
+    }
+  ],
+  "141": [
+    {
+      "id": "station_aarburg_oftringen",
+      "label": "B",
+      "code": "ABO",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "141"
+    },
+    {
+      "id": "station_schönbühl",
+      "label": "B",
+      "code": "SCHB",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "141"
+    },
+    {
+      "id": "station_zollikofen",
+      "label": "B",
+      "code": "ZOL",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "141"
+    },
+    {
+      "id": "station_lyssach",
+      "label": "B",
+      "code": "LYS",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "141"
+    },
+    {
+      "id": "station_hindelbank",
+      "label": "B",
+      "code": "HBK",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "141"
+    },
+    {
+      "id": "station_wynigen",
+      "label": "B",
+      "code": "WY",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "141"
+    },
+    {
+      "id": "station_herzogenbuchsee",
+      "label": "B",
+      "code": "HB",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "141"
+    },
+    {
+      "id": "station_riedtwil",
+      "label": "B",
+      "code": "RTW",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "141"
+    },
+    {
+      "id": "station_rothrist",
+      "label": "B",
+      "code": "RTR",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "141"
+    },
+    {
+      "id": "station_murgenthal",
+      "label": "B",
+      "code": "MGT",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "141"
+    },
+    {
+      "id": "station_burgdorf",
+      "label": "B",
+      "code": "BDF",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "141"
+    },
+    {
+      "id": "station_mattstetten",
+      "label": "B",
+      "code": null,
+      "typ": "unoccupied_station",
+      "tanklager": null,
+      "line": "141"
+    },
+    {
+      "id": "station_roggwil",
+      "label": "B",
+      "code": "ROG",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "141"
+    }
+  ],
+  "142": [
+    {
+      "id": "station_inkwil",
+      "label": "B",
+      "code": "INK",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "142"
+    },
+    {
+      "id": "station_subingen",
+      "label": "B",
+      "code": "SBN",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "142"
+    },
+    {
+      "id": "station_wanzwil",
+      "label": "B",
+      "code": null,
+      "typ": "unoccupied_station",
+      "tanklager": null,
+      "line": "142"
+    },
+    {
+      "id": "station_bahn_2000",
+      "label": "B",
+      "code": null,
+      "typ": "Station",
+      "tanklager": null,
+      "line": "142"
+    }
+  ],
+  "151": [
+    {
+      "id": "station_zürich_vorbahnhof",
+      "label": "B",
+      "code": null,
+      "typ": "unoccupied_station",
+      "tanklager": null,
+      "line": "151"
+    },
+    {
+      "id": "station_glanzenberg",
+      "label": "B",
+      "code": "GLZB",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "151"
+    },
+    {
+      "id": "station_schlieren",
+      "label": "B",
+      "code": "SCHL",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "151"
+    },
+    {
+      "id": "station_zürich_altstätten",
+      "label": "B",
+      "code": "ZAS",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "151"
+    },
+    {
+      "id": "station_herdern",
+      "label": "B",
+      "code": null,
+      "typ": "unoccupied_station",
+      "tanklager": null,
+      "line": "151"
+    },
+    {
+      "id": "station_hardbrücke",
+      "label": "B",
+      "code": null,
+      "typ": "unoccupied_station",
+      "tanklager": null,
+      "line": "151"
+    },
+    {
+      "id": "station_mägenwil",
+      "label": "B",
+      "code": "MAEG",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "151"
+    },
+    {
+      "id": "station_mellingen_heitersberg",
+      "label": "B",
+      "code": "MELH",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "151"
+    },
+    {
+      "id": "station_wildegg",
+      "label": "B",
+      "code": "WI",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "151"
+    },
+    {
+      "id": "station_holderbank_ag",
+      "label": "B",
+      "code": "HOBK",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "151"
+    },
+    {
+      "id": "station_aarau",
+      "label": "B",
+      "code": "AA",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "151"
+    },
+    {
+      "id": "station_wöschnau",
+      "label": "B",
+      "code": null,
+      "typ": "unoccupied_station",
+      "tanklager": null,
+      "line": "151"
+    },
+    {
+      "id": "station_däniken_rb",
+      "label": "B",
+      "code": null,
+      "typ": "unoccupied_station",
+      "tanklager": null,
+      "line": "151"
+    },
+    {
+      "id": "station_rbl_west",
+      "label": "B",
+      "code": null,
+      "typ": "unoccupied_station",
+      "tanklager": null,
+      "line": "151"
+    },
+    {
+      "id": "station_dietikon",
+      "label": "B",
+      "code": "DT",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "151"
+    },
+    {
+      "id": "station_rupperswil",
+      "label": "B",
+      "code": "RU",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "151"
+    },
+    {
+      "id": "station_zürich_hb",
+      "label": "B",
+      "code": "ZUE",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "151"
+    },
+    {
+      "id": "station_däniken",
+      "label": "B",
+      "code": "DK",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "151"
+    },
+    {
+      "id": "station_dulliken",
+      "label": "B",
+      "code": "DU",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "151"
+    },
+    {
+      "id": "station_schinznach_bad",
+      "label": "B",
+      "code": "SBAD",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "151"
+    },
+    {
+      "id": "station_schönenwerd",
+      "label": "B",
+      "code": "SCOE",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "151"
+    }
+  ],
+  "161": [
+    {
+      "id": "station_mülligen",
+      "label": "B",
+      "code": null,
+      "typ": "unoccupied_station",
+      "tanklager": null,
+      "line": "161"
+    },
+    {
+      "id": "station_killwangen_spreitenbach",
+      "label": "B",
+      "code": "KLW",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "161"
+    }
+  ],
+  "171": [
+    {
+      "id": "station_affoltern",
+      "label": "B",
+      "code": null,
+      "typ": "Station",
+      "tanklager": null,
+      "line": "171"
+    },
+    {
+      "id": "station_seebach",
+      "label": "B",
+      "code": "ZSEB",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "171"
+    },
+    {
+      "id": "station_zürich_oerlikon",
+      "label": "B",
+      "code": "ZOER",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "171"
+    },
+    {
+      "id": "station_otelfingen",
+      "label": "B",
+      "code": "OF",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "171"
+    },
+    {
+      "id": "station_otelfingen_golfpark",
+      "label": "B",
+      "code": "OFR",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "171"
+    },
+    {
+      "id": "station_regensdorf-watt",
+      "label": "B",
+      "code": "REG",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "171"
+    },
+    {
+      "id": "station_würenlos",
+      "label": "B",
+      "code": "WUER",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "171"
+    },
+    {
+      "id": "station_buchs-dällikon",
+      "label": "B",
+      "code": "BUD",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "171"
+    }
+  ],
+  "201": [
+    {
+      "id": "station_bussigny",
+      "label": "B",
+      "code": "BY",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "201"
+    },
+    {
+      "id": "station_croy_romainmôtier",
+      "label": "B",
+      "code": "CR",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "201"
+    },
+    {
+      "id": "station_la_sarraz",
+      "label": "B",
+      "code": "LSA",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "201"
+    },
+    {
+      "id": "station_arnex",
+      "label": "B",
+      "code": "AX",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "201"
+    },
+    {
+      "id": "station_vallorbe",
+      "label": "B",
+      "code": "VAL",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "201"
+    },
+    {
+      "id": "station_le_day",
+      "label": "B",
+      "code": "DAY",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "201"
+    },
+    {
+      "id": "station_bretonnières",
+      "label": "B",
+      "code": "BRT",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "201"
+    }
+  ],
+  "202": [
+    {
+      "id": "station_brassus",
+      "label": "B",
+      "code": "BRA",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "202"
+    }
+  ],
+  "211": [
+    {
+      "id": "station_lausanne_sébeillon",
+      "label": "B",
+      "code": null,
+      "typ": "unoccupied_station",
+      "tanklager": null,
+      "line": "211"
+    },
+    {
+      "id": "station_rivaz",
+      "label": "B",
+      "code": "RIV",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "211"
+    },
+    {
+      "id": "station_vevey",
+      "label": "B",
+      "code": "VV",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "211"
+    },
+    {
+      "id": "station_lutry",
+      "label": "B",
+      "code": "LTY",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "211"
+    },
+    {
+      "id": "station_cully",
+      "label": "B",
+      "code": "CU",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "211"
+    },
+    {
+      "id": "station_roche_vd",
+      "label": "B",
+      "code": "ROC",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "211"
+    },
+    {
+      "id": "station_st_maurice",
+      "label": "B",
+      "code": "SM",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "211"
+    },
+    {
+      "id": "station_aigle",
+      "label": "B",
+      "code": "AIG",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "211"
+    },
+    {
+      "id": "station_bex",
+      "label": "B",
+      "code": "BEX",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "211"
+    },
+    {
+      "id": "station_st_triphon",
+      "label": "B",
+      "code": "ST",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "211"
+    },
+    {
+      "id": "station_villeneuve",
+      "label": "B",
+      "code": "VIL",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "211"
+    },
+    {
+      "id": "station_martigny",
+      "label": "B",
+      "code": "MA",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "211"
+    },
+    {
+      "id": "station_vernayaz",
+      "label": "B",
+      "code": "VERN",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "211"
+    },
+    {
+      "id": "station_evionnaz",
+      "label": "B",
+      "code": "EV",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "211"
+    },
+    {
+      "id": "station_saxon",
+      "label": "B",
+      "code": "SAX",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "211"
+    },
+    {
+      "id": "station_ardon",
+      "label": "B",
+      "code": "ARD",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "211"
+    },
+    {
+      "id": "station_sion",
+      "label": "B",
+      "code": "SIO",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "211"
+    },
+    {
+      "id": "station_montreux",
+      "label": "B",
+      "code": "MX",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "211"
+    },
+    {
+      "id": "station_burier",
+      "label": "B",
+      "code": "BURI",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "211"
+    },
+    {
+      "id": "station_clarens",
+      "label": "B",
+      "code": "CL",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "211"
+    },
+    {
+      "id": "station_epesses",
+      "label": "B",
+      "code": "EPS",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "211"
+    },
+    {
+      "id": "station_st_saphorin",
+      "label": "B",
+      "code": "STSA",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "211"
+    },
+    {
+      "id": "station_territet",
+      "label": "B",
+      "code": "TER",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "211"
+    },
+    {
+      "id": "station_la_tour_de_peilz",
+      "label": "B",
+      "code": "TOUR",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "211"
+    },
+    {
+      "id": "station_veytaux_chillon",
+      "label": "B",
+      "code": "VEY",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "211"
+    },
+    {
+      "id": "station_villette",
+      "label": "B",
+      "code": "VTE",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "211"
+    },
+    {
+      "id": "station_les_paluds",
+      "label": "B",
+      "code": null,
+      "typ": "unoccupied_station",
+      "tanklager": null,
+      "line": "211"
+    },
+    {
+      "id": "station_chamoson",
+      "label": "B",
+      "code": "CHA",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "211"
+    },
+    {
+      "id": "station_charrat_fully",
+      "label": "B",
+      "code": "CHAR",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "211"
+    },
+    {
+      "id": "station_châteauneuf_conthey",
+      "label": "B",
+      "code": "CHF",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "211"
+    },
+    {
+      "id": "station_riddes",
+      "label": "B",
+      "code": "RID",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "211"
+    },
+    {
+      "id": "station_tl_st_triphon",
+      "label": "B",
+      "code": "ST",
+      "typ": "unoccupied_station",
+      "tanklager": null,
+      "line": "211"
+    }
+  ],
+  "221": [
+    {
+      "id": "station_raron",
+      "label": "B",
+      "code": "RAR",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "221"
+    },
+    {
+      "id": "station_gampel_steg",
+      "label": "B",
+      "code": "GA",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "221"
+    },
+    {
+      "id": "station_turtmann",
+      "label": "B",
+      "code": "TUR",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "221"
+    },
+    {
+      "id": "station_leuk",
+      "label": "B",
+      "code": "LK",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "221"
+    },
+    {
+      "id": "station_salgesch",
+      "label": "B",
+      "code": "SAL",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "221"
+    },
+    {
+      "id": "station_sierre_siders",
+      "label": "B",
+      "code": null,
+      "typ": "Station",
+      "tanklager": null,
+      "line": "221"
+    },
+    {
+      "id": "station_granges_lens",
+      "label": "B",
+      "code": "GRAL",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "221"
+    },
+    {
+      "id": "station_st_leonard",
+      "label": "B",
+      "code": "SL",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "221"
+    },
+    {
+      "id": "station_visp",
+      "label": "B",
+      "code": "VI",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "221"
+    },
+    {
+      "id": "station_brig",
+      "label": "B",
+      "code": "BR",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "221"
+    }
+  ],
+  "222": [
+    {
+      "id": "station_varzo",
+      "label": "B",
+      "code": "VAR",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "222"
+    },
+    {
+      "id": "station_preglia",
+      "label": "B",
+      "code": "PRE",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "222"
+    },
+    {
+      "id": "station_iselle_di_trasquera",
+      "label": "B",
+      "code": "IS",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "222"
+    },
+    {
+      "id": "station_domodossola",
+      "label": "B",
+      "code": "DO",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "222"
+    },
+    {
+      "id": "station_domodossola_due",
+      "label": "B",
+      "code": "DOII",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "222"
+    }
+  ],
+  "231": [
+    {
+      "id": "station_chexbres_village",
+      "label": "B",
+      "code": "CHX",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "231"
+    },
+    {
+      "id": "station_corseaux_cornalles",
+      "label": "B",
+      "code": "CORS",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "231"
+    },
+    {
+      "id": "station_vevey_funi",
+      "label": "B",
+      "code": "VVFU",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "231"
+    }
+  ],
+  "232": [
+    {
+      "id": "station_bouveret",
+      "label": "B",
+      "code": "BOU",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "232"
+    },
+    {
+      "id": "station_vouvry",
+      "label": "B",
+      "code": "VOU",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "232"
+    },
+    {
+      "id": "station_monthey",
+      "label": "B",
+      "code": "MTH",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "232"
+    },
+    {
+      "id": "station_st_gingolph",
+      "label": "B",
+      "code": "STGI",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "232"
+    },
+    {
+      "id": "station_massongex",
+      "label": "B",
+      "code": "MAS",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "232"
+    },
+    {
+      "id": "station_les_evouettes",
+      "label": "B",
+      "code": "EVOU",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "232"
+    },
+    {
+      "id": "station_collombey",
+      "label": "B",
+      "code": "CBY",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "232"
+    },
+    {
+      "id": "station_vionnaz",
+      "label": "B",
+      "code": "VIO",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "232"
+    }
+  ],
+  "251": [
+    {
+      "id": "station_moudon",
+      "label": "B",
+      "code": "MD",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "251"
+    },
+    {
+      "id": "station_lucens",
+      "label": "B",
+      "code": "LUC",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "251"
+    },
+    {
+      "id": "station_granges_marnand",
+      "label": "B",
+      "code": "GM",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "251"
+    },
+    {
+      "id": "station_ecublens_rue",
+      "label": "B",
+      "code": "ECU",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "251"
+    },
+    {
+      "id": "station_châtillens",
+      "label": "B",
+      "code": "CHAT",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "251"
+    },
+    {
+      "id": "station_palézieux_village",
+      "label": "B",
+      "code": "PALV",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "251"
+    },
+    {
+      "id": "station_bressonnaz",
+      "label": "B",
+      "code": "BZ",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "251"
+    },
+    {
+      "id": "station_henniez",
+      "label": "B",
+      "code": "HEN",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "251"
+    },
+    {
+      "id": "station_trey",
+      "label": "B",
+      "code": "TREY",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "251"
+    }
+  ],
+  "252": [
+    {
+      "id": "station_payerne",
+      "label": "B",
+      "code": "PAY",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "252"
+    },
+    {
+      "id": "station_kerzers",
+      "label": "B",
+      "code": "KZ",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "252"
+    },
+    {
+      "id": "station_dompierre",
+      "label": "B",
+      "code": "DOP",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "252"
+    },
+    {
+      "id": "station_faoug",
+      "label": "B",
+      "code": "FG",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "252"
+    },
+    {
+      "id": "station_avennches",
+      "label": "B",
+      "code": "AV",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "252"
+    },
+    {
+      "id": "station_domdider",
+      "label": "B",
+      "code": "DOM",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "252"
+    },
+    {
+      "id": "station_corcelles_nord",
+      "label": "B",
+      "code": "CN",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "252"
+    },
+    {
+      "id": "station_galmiz",
+      "label": "B",
+      "code": "GZ",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "252"
+    },
+    {
+      "id": "station_aarberg",
+      "label": "B",
+      "code": "ABE",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "252"
+    },
+    {
+      "id": "station_murten_papillorama",
+      "label": "B",
+      "code": null,
+      "typ": "Station",
+      "tanklager": null,
+      "line": "252"
+    },
+    {
+      "id": "station_muntelier_löwenberg",
+      "label": "B",
+      "code": "LOEW",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "252"
+    },
+    {
+      "id": "station_lyss",
+      "label": "B",
+      "code": "LY",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "252"
+    },
+    {
+      "id": "station_busswil",
+      "label": "B",
+      "code": "BUS",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "252"
+    },
+    {
+      "id": "station_murten",
+      "label": "B",
+      "code": "MRT",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "252"
+    },
+    {
+      "id": "station_arch",
+      "label": "B",
+      "code": null,
+      "typ": "unoccupied_station",
+      "tanklager": null,
+      "line": "252"
+    },
+    {
+      "id": "station_leutzigen",
+      "label": "B",
+      "code": null,
+      "typ": "unoccupied_station",
+      "tanklager": null,
+      "line": "252"
+    },
+    {
+      "id": "station_lüsslingen",
+      "label": "B",
+      "code": null,
+      "typ": "unoccupied_station",
+      "tanklager": null,
+      "line": "252"
+    },
+    {
+      "id": "station_ang_nespresso",
+      "label": "B",
+      "code": null,
+      "typ": "unoccupied_station",
+      "tanklager": null,
+      "line": "252"
+    },
+    {
+      "id": "station_kallnach",
+      "label": "B",
+      "code": "KAL",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "252"
+    },
+    {
+      "id": "station_fräschels",
+      "label": "B",
+      "code": "FRAE",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "252"
+    },
+    {
+      "id": "station_dotzigen",
+      "label": "B",
+      "code": "DON",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "252"
+    },
+    {
+      "id": "station_büren_an_der_aare",
+      "label": "B",
+      "code": "BUER",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "252"
+    },
+    {
+      "id": "station_bargen",
+      "label": "B",
+      "code": "BRG",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "252"
+    }
+  ],
+  "255": [
+    {
+      "id": "station_ins",
+      "label": "B",
+      "code": "INS",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "255"
+    },
+    {
+      "id": "station_courtepin",
+      "label": "B",
+      "code": "COUR",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "255"
+    }
+  ],
+  "261": [
+    {
+      "id": "station_grolley",
+      "label": "B",
+      "code": "GRO",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "261"
+    },
+    {
+      "id": "station_estvayer_le_lac",
+      "label": "B",
+      "code": "EST",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "261"
+    },
+    {
+      "id": "station_cugy",
+      "label": "B",
+      "code": "CGY",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "261"
+    },
+    {
+      "id": "station_yvonand",
+      "label": "B",
+      "code": "YND",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "261"
+    },
+    {
+      "id": "station_givisiez_gfm",
+      "label": "B",
+      "code": "GIV",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "261"
+    },
+    {
+      "id": "station_belfaux_cff",
+      "label": "B",
+      "code": "BF",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "261"
+    },
+    {
+      "id": "station_yverdon_champittet",
+      "label": "B",
+      "code": "CHP",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "261"
+    },
+    {
+      "id": "station_cheyres",
+      "label": "B",
+      "code": "CHS",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "261"
+    },
+    {
+      "id": "station_corcelles_sud",
+      "label": "B",
+      "code": "CS",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "261"
+    },
+    {
+      "id": "station_cousset",
+      "label": "B",
+      "code": "COUS",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "261"
+    },
+    {
+      "id": "station_léchelles",
+      "label": "B",
+      "code": "LECH",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "261"
+    }
+  ],
+  "271": [
+    {
+      "id": "station_noiraigue",
+      "label": "B",
+      "code": "NOI",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "271"
+    },
+    {
+      "id": "station_champ_du_moulin",
+      "label": "B",
+      "code": "CDM",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "271"
+    },
+    {
+      "id": "station_les_verrières",
+      "label": "B",
+      "code": "VER",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "271"
+    },
+    {
+      "id": "station_buttes",
+      "label": "B",
+      "code": "BT",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "271"
+    },
+    {
+      "id": "station_travers",
+      "label": "B",
+      "code": "TR",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "271"
+    },
+    {
+      "id": "station_les_bayards",
+      "label": "B",
+      "code": null,
+      "typ": "unoccupied_station",
+      "tanklager": null,
+      "line": "271"
+    },
+    {
+      "id": "station_boveresse",
+      "label": "B",
+      "code": "BOV",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "271"
+    },
+    {
+      "id": "station_couvet_cff",
+      "label": "B",
+      "code": "CVT",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "271"
+    },
+    {
+      "id": "station_bôle",
+      "label": "B",
+      "code": "BOLE",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "271"
+    }
+  ],
+  "272": [
+    {
+      "id": "station_chambrelien",
+      "label": "B",
+      "code": "CHN",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "272"
+    },
+    {
+      "id": "station_corcelles_peseux",
+      "label": "B",
+      "code": "CP",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "272"
+    },
+    {
+      "id": "station_les_ponts_de_martel",
+      "label": "B",
+      "code": "PDM",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "272"
+    },
+    {
+      "id": "station_la_chaux_de_fonds",
+      "label": "B",
+      "code": "CF",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "272"
+    },
+    {
+      "id": "station_le_crêt_du_locle",
+      "label": "B",
+      "code": "CRET",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "272"
+    },
+    {
+      "id": "station_le_locle_col_des_roches",
+      "label": "B",
+      "code": "COL",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "272"
+    },
+    {
+      "id": "station_montmallin_montezillon",
+      "label": "B",
+      "code": null,
+      "typ": "Station",
+      "tanklager": null,
+      "line": "272"
+    },
+    {
+      "id": "station_les_deurres",
+      "label": "B",
+      "code": "DEU",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "272"
+    },
+    {
+      "id": "station_les_gneveys_sur_coffrane",
+      "label": "B",
+      "code": "GEC",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "272"
+    },
+    {
+      "id": "station_les_hauts_geneveys",
+      "label": "B",
+      "code": "GEC",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "272"
+    },
+    {
+      "id": "station_km_25_8",
+      "label": "B",
+      "code": null,
+      "typ": "Station",
+      "tanklager": null,
+      "line": "272"
+    },
+    {
+      "id": "station_le_locle",
+      "label": "B",
+      "code": "LOC",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "272"
+    }
+  ],
+  "281": [
+    {
+      "id": "station_courtelary",
+      "label": "B",
+      "code": "CTY",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "281"
+    },
+    {
+      "id": "station_cortébert",
+      "label": "B",
+      "code": "CO",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "281"
+    },
+    {
+      "id": "station_renan_be",
+      "label": "B",
+      "code": "RE",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "281"
+    },
+    {
+      "id": "station_st_imier",
+      "label": "B",
+      "code": "STI",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "281"
+    },
+    {
+      "id": "station_le_creux",
+      "label": "B",
+      "code": "LCR",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "281"
+    },
+    {
+      "id": "station_sonceboz_sombeval",
+      "label": "B",
+      "code": "SCB",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "281"
+    },
+    {
+      "id": "station_reuchenette_péry",
+      "label": "B",
+      "code": "REU",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "281"
+    },
+    {
+      "id": "station_mahlenwald",
+      "label": "B",
+      "code": null,
+      "typ": "unoccupied_station",
+      "tanklager": null,
+      "line": "281"
+    },
+    {
+      "id": "station_frinvillier_taubenloch",
+      "label": "B",
+      "code": "FRIN",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "281"
+    },
+    {
+      "id": "station_la_heutte",
+      "label": "B",
+      "code": "LHE",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "281"
+    },
+    {
+      "id": "station_corgémont",
+      "label": "B",
+      "code": "COG",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "281"
+    },
+    {
+      "id": "station_cormoret",
+      "label": "B",
+      "code": "CORM",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "281"
+    },
+    {
+      "id": "station_villeret",
+      "label": "B",
+      "code": "VT",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "281"
+    },
+    {
+      "id": "station_sonvilier",
+      "label": "B",
+      "code": "SV",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "281"
+    }
+  ],
+  "282": [
+    {
+      "id": "station_tavannes",
+      "label": "B",
+      "code": "TA",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "282"
+    },
+    {
+      "id": "station_reconvilier",
+      "label": "B",
+      "code": "REC",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "282"
+    },
+    {
+      "id": "station_court",
+      "label": "B",
+      "code": "CT",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "282"
+    },
+    {
+      "id": "station_malleray_bévilard",
+      "label": "B",
+      "code": "MB",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "282"
+    },
+    {
+      "id": "station_biel_bienne",
+      "label": "B",
+      "code": "BI",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "282"
+    },
+    {
+      "id": "station_pontenet",
+      "label": "B",
+      "code": "PON",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "282"
+    },
+    {
+      "id": "station_sorvilier",
+      "label": "B",
+      "code": "SOR",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "282"
+    }
+  ],
+  "291": [
+    {
+      "id": "station_moutier",
+      "label": "B",
+      "code": "MOU",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "291"
+    },
+    {
+      "id": "station_grenchen_nord",
+      "label": "B",
+      "code": "GN",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "291"
+    },
+    {
+      "id": "station_biel_mett_abzw.",
+      "label": "B",
+      "code": null,
+      "typ": "unoccupied_station",
+      "tanklager": null,
+      "line": "291"
+    },
+    {
+      "id": "station_biel_mett",
+      "label": "B",
+      "code": "BIM",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "291"
+    },
+    {
+      "id": "station_roche_BE",
+      "label": "B",
+      "code": null,
+      "typ": "unoccupied_station",
+      "tanklager": null,
+      "line": "291"
+    },
+    {
+      "id": "station_courrendlin",
+      "label": "B",
+      "code": "CRD",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "291"
+    },
+    {
+      "id": "station_pieterlen",
+      "label": "B",
+      "code": "PIE",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "291"
+    },
+    {
+      "id": "station_lengnau",
+      "label": "B",
+      "code": "LEN",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "291"
+    },
+    {
+      "id": "station_choindez",
+      "label": "B",
+      "code": "CHZ",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "291"
+    }
+  ],
+  "292": [
+    {
+      "id": "station_delémont",
+      "label": "B",
+      "code": "DMT",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "292"
+    },
+    {
+      "id": "station_delle",
+      "label": "B",
+      "code": "DL",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "292"
+    },
+    {
+      "id": "station_boncourt",
+      "label": "B",
+      "code": "BCT",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "292"
+    },
+    {
+      "id": "station_porrentruy",
+      "label": "B",
+      "code": "POR",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "292"
+    },
+    {
+      "id": "station_courgenay",
+      "label": "B",
+      "code": "CG",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "292"
+    },
+    {
+      "id": "station_st-ursanne",
+      "label": "B",
+      "code": "SU",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "292"
+    },
+    {
+      "id": "station_courtemaîche",
+      "label": "B",
+      "code": "CTM",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "292"
+    },
+    {
+      "id": "station_bure",
+      "label": "B",
+      "code": null,
+      "typ": "unoccupied_station",
+      "tanklager": null,
+      "line": "292"
+    },
+    {
+      "id": "station_courtételle",
+      "label": "B",
+      "code": "CTT",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "292"
+    },
+    {
+      "id": "station_courfaivre",
+      "label": "B",
+      "code": "CFV",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "292"
+    },
+    {
+      "id": "station_glovelier",
+      "label": "B",
+      "code": "GLO",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "292"
+    },
+    {
+      "id": "station_buix",
+      "label": "B",
+      "code": "BX",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "292"
+    },
+    {
+      "id": "station_grandgourt",
+      "label": "B",
+      "code": "GRA",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "292"
+    },
+    {
+      "id": "station_courchavon",
+      "label": "B",
+      "code": "CCH",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "292"
+    },
+    {
+      "id": "station_bassecourt",
+      "label": "Bassecourt",
+      "code": "BSC",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "292"
+    }
+  ],
+  "301": [
+    {
+      "id": "station_twann",
+      "label": "B",
+      "code": "TWN",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "301"
+    },
+    {
+      "id": "station_tüscherz",
+      "label": "B",
+      "code": "TUE",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "301"
+    },
+    {
+      "id": "station_cossonay",
+      "label": "B",
+      "code": "COS",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "301"
+    },
+    {
+      "id": "station_chavornay",
+      "label": "B",
+      "code": "CHV",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "301"
+    },
+    {
+      "id": "station_ependes",
+      "label": "B",
+      "code": "EP",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "301"
+    },
+    {
+      "id": "station_cornaux",
+      "label": "B",
+      "code": "CORN",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "301"
+    },
+    {
+      "id": "station_yverdon",
+      "label": "B",
+      "code": "YV",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "301"
+    },
+    {
+      "id": "station_grandson",
+      "label": "B",
+      "code": "GRS",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "301"
+    },
+    {
+      "id": "station_onnens_bonvillars",
+      "label": "B",
+      "code": "ONB",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "301"
+    },
+    {
+      "id": "station_neuchâtel_serrières",
+      "label": "B",
+      "code": "NESE",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "301"
+    },
+    {
+      "id": "station_colombier",
+      "label": "B",
+      "code": "CLB",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "301"
+    },
+    {
+      "id": "station_auvenier",
+      "label": "B",
+      "code": "AUV",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "301"
+    },
+    {
+      "id": "station_neuchâtel",
+      "label": "B",
+      "code": "NE",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "301"
+    },
+    {
+      "id": "station_bavois",
+      "label": "B",
+      "code": "BAV",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "301"
+    },
+    {
+      "id": "station_daillens",
+      "label": "B",
+      "code": null,
+      "typ": "unoccupied_station",
+      "tanklager": null,
+      "line": "301"
+    },
+    {
+      "id": "station_eclépens",
+      "label": "B",
+      "code": "ECL",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "301"
+    },
+    {
+      "id": "station_essert_pittet",
+      "label": "B",
+      "code": "ESP",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "301"
+    },
+    {
+      "id": "station_vufflens_la_ville",
+      "label": "B",
+      "code": "VU",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "301"
+    },
+    {
+      "id": "station_cressier",
+      "label": "B",
+      "code": "CRNE",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "301"
+    },
+    {
+      "id": "station_le_landeron",
+      "label": "B",
+      "code": "LD",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "301"
+    },
+    {
+      "id": "station_ligerz",
+      "label": "B",
+      "code": "LIG",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "301"
+    },
+    {
+      "id": "station_la_neuveville",
+      "label": "B",
+      "code": "NV",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "301"
+    },
+    {
+      "id": "station_boudry",
+      "label": "B",
+      "code": "BDR",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "301"
+    },
+    {
+      "id": "station_bevaix",
+      "label": "B",
+      "code": "BV",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "301"
+    },
+    {
+      "id": "station_concise",
+      "label": "B",
+      "code": "CC",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "301"
+    },
+    {
+      "id": "station_neuchâtel_vauseyon",
+      "label": "B",
+      "code": null,
+      "typ": "unoccupied_station",
+      "tanklager": null,
+      "line": "301"
+    },
+    {
+      "id": "station_st_blaise_cff",
+      "label": "B",
+      "code": "SBL",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "301"
+    },
+    {
+      "id": "station_vaumarcus",
+      "label": "B",
+      "code": "VAU",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "301"
+    },
+    {
+      "id": "station_tl_cornaux",
+      "label": "B",
+      "code": null,
+      "typ": "unoccupied_station",
+      "tanklager": null,
+      "line": "301"
+    }
+  ],
+  "311": [
+    {
+      "id": "station_wagen_bei_olten",
+      "label": "B",
+      "code": "WBOL",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "311"
+    },
+    {
+      "id": "station_hägendorf",
+      "label": "B",
+      "code": "HAE",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "311"
+    },
+    {
+      "id": "station_härkingen_post",
+      "label": "B",
+      "code": "HRK",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "311"
+    },
+    {
+      "id": "station_egerkingen",
+      "label": "B",
+      "code": "EG",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "311"
+    },
+    {
+      "id": "station_oberbuchsiten",
+      "label": "B",
+      "code": "OB",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "311"
+    },
+    {
+      "id": "station_oensingen",
+      "label": "B",
+      "code": "OEN",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "311"
+    },
+    {
+      "id": "station_niederbipp",
+      "label": "B",
+      "code": "NB",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "311"
+    },
+    {
+      "id": "station_wangen_a_a",
+      "label": "B",
+      "code": "WAA",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "311"
+    },
+    {
+      "id": "station_deitingen",
+      "label": "B",
+      "code": "DN",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "311"
+    },
+    {
+      "id": "station_luterbach",
+      "label": "B",
+      "code": "LUT",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "311"
+    },
+    {
+      "id": "station_biel_rb",
+      "label": "B",
+      "code": null,
+      "typ": "unoccupied_station",
+      "tanklager": null,
+      "line": "311"
+    },
+    {
+      "id": "station_solothurn",
+      "label": "B",
+      "code": "SO",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "311"
+    },
+    {
+      "id": "station_bettlch",
+      "label": "B",
+      "code": "BET",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "311"
+    },
+    {
+      "id": "station_grenchen_süd",
+      "label": "B",
+      "code": "GS",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "311"
+    },
+    {
+      "id": "station_selzach",
+      "label": "B",
+      "code": "SEL",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "311"
+    },
+    {
+      "id": "station_bellach",
+      "label": "B",
+      "code": "BELL",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "311"
+    },
+    {
+      "id": "station_olten_hammer",
+      "label": "B",
+      "code": "OLH",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "311"
+    },
+    {
+      "id": "station_solothurn_west",
+      "label": "B",
+      "code": "SW",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "311"
+    },
+    {
+      "id": "station_balsthal",
+      "label": "B",
+      "code": "BTH",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "311"
+    }
+  ],
+  "321": [
+    {
+      "id": "station_suberg-grossaffoltern",
+      "label": "B",
+      "code": "SUB",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "321"
+    },
+    {
+      "id": "station_münchenbuchsee",
+      "label": "B",
+      "code": "MUEB",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "321"
+    },
+    {
+      "id": "station_schüpfen",
+      "label": "B",
+      "code": "SCUE",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "321"
+    },
+    {
+      "id": "station_brügg",
+      "label": "B",
+      "code": "BGG",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "321"
+    },
+    {
+      "id": "station_studen",
+      "label": "B",
+      "code": null,
+      "typ": "Station",
+      "tanklager": null,
+      "line": "321"
+    }
+  ],
+  "322": [
+    {
+      "id": "station_escholzmatt",
+      "label": "B",
+      "code": "ESCH",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "322"
+    },
+    {
+      "id": "station_ostermundigen",
+      "label": "B",
+      "code": "OST",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "322"
+    },
+    {
+      "id": "station_bern_wankdorf",
+      "label": "B",
+      "code": "BNWD",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "322"
+    },
+    {
+      "id": "station_bern_wylerfeld",
+      "label": "B",
+      "code": null,
+      "typ": "unoccupied_station",
+      "tanklager": null,
+      "line": "322"
+    },
+    {
+      "id": "station_gümligen",
+      "label": "B",
+      "code": "GUE",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "322"
+    },
+    {
+      "id": "station_bern_weyermannshaus",
+      "label": "B",
+      "code": null,
+      "typ": "unoccupied_station",
+      "tanklager": null,
+      "line": "322"
+    },
+    {
+      "id": "station_bern",
+      "label": "B",
+      "code": "BN",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "322"
+    },
+    {
+      "id": "station_rubigen",
+      "label": "B",
+      "code": "RUB",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "322"
+    },
+    {
+      "id": "station_münsingen",
+      "label": "B",
+      "code": "MS",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "322"
+    },
+    {
+      "id": "station_utigen",
+      "label": "B",
+      "code": "UTI",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "322"
+    },
+    {
+      "id": "station_kiesen",
+      "label": "B",
+      "code": "KI",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "322"
+    },
+    {
+      "id": "station_wichtracht",
+      "label": "B",
+      "code": "WCH",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "322"
+    },
+    {
+      "id": "station_einigen",
+      "label": "B",
+      "code": "EIN",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "322"
+    },
+    {
+      "id": "station_gwatt",
+      "label": "B",
+      "code": "GW",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "322"
+    },
+    {
+      "id": "station_thun",
+      "label": "B",
+      "code": "TH",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "322"
+    },
+    {
+      "id": "station_heustrich",
+      "label": "B",
+      "code": "HEU",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "322"
+    },
+    {
+      "id": "station_spiez",
+      "label": "B",
+      "code": "SP",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "322"
+    },
+    {
+      "id": "station_reichenbach",
+      "label": "B",
+      "code": "REIK",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "322"
+    },
+    {
+      "id": "station_mülenen",
+      "label": "B",
+      "code": "MUE",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "322"
+    },
+    {
+      "id": "station_wolhusen",
+      "label": "B",
+      "code": "WH",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "322"
+    },
+    {
+      "id": "station_malters",
+      "label": "B",
+      "code": "MAL",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "322"
+    },
+    {
+      "id": "station_entlebuch",
+      "label": "B",
+      "code": "ENT",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "322"
+    },
+    {
+      "id": "station_löchligut",
+      "label": "B",
+      "code": null,
+      "typ": "unoccupied_station",
+      "tanklager": null,
+      "line": "322"
+    },
+    {
+      "id": "station_depot_spiez",
+      "label": "B",
+      "code": null,
+      "typ": "unoccupied_station",
+      "tanklager": null,
+      "line": "322"
+    }
+  ],
+  "331": [
+    {
+      "id": "station_obermatt",
+      "label": "B",
+      "code": "OM",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "331"
+    },
+    {
+      "id": "station_konolfingen",
+      "label": "B",
+      "code": "KF",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "331"
+    },
+    {
+      "id": "station_bowil",
+      "label": "B",
+      "code": "BOW",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "331"
+    },
+    {
+      "id": "station_emmenmatt",
+      "label": "B",
+      "code": "EMM",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "331"
+    },
+    {
+      "id": "station_tägertschi",
+      "label": "B",
+      "code": "TI",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "331"
+    },
+    {
+      "id": "station_zäziwil",
+      "label": "B",
+      "code": "ZAE",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "331"
+    },
+    {
+      "id": "station_worb",
+      "label": "B",
+      "code": "WB",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "331"
+    },
+    {
+      "id": "station_signau",
+      "label": "B",
+      "code": "SIGN",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "331"
+    }
+  ],
+  "332": [
+    {
+      "id": "station_gütsch",
+      "label": "B",
+      "code": null,
+      "typ": "unoccupied_station",
+      "tanklager": null,
+      "line": "332"
+    },
+    {
+      "id": "station_wiggen",
+      "label": "B",
+      "code": "WIG",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "332"
+    },
+    {
+      "id": "station_schüpfheim",
+      "label": "B",
+      "code": "SCHH",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "332"
+    },
+    {
+      "id": "station_littau",
+      "label": "B",
+      "code": "LIT",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "332"
+    },
+    {
+      "id": "station_langnau",
+      "label": "B",
+      "code": "LN",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "332"
+    },
+    {
+      "id": "station_trubschachen",
+      "label": "B",
+      "code": "TSCH",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "332"
+    },
+    {
+      "id": "station_hasle",
+      "label": "B",
+      "code": "HAS",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "332"
+    },
+    {
+      "id": "station_doppleschwand",
+      "label": "B",
+      "code": null,
+      "typ": "Station",
+      "tanklager": null,
+      "line": "332"
+    },
+    {
+      "id": "station_werthenstein",
+      "label": "B",
+      "code": "WST",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "332"
+    }
+  ],
+  "341": [
+    {
+      "id": "station_basel_dreispitz",
+      "label": "B",
+      "code": null,
+      "typ": "unoccupied_station",
+      "tanklager": null,
+      "line": "341"
+    },
+    {
+      "id": "station_grellingen",
+      "label": "B",
+      "code": "GREL",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "341"
+    },
+    {
+      "id": "station_zwingen",
+      "label": "B",
+      "code": "ZWG",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "341"
+    },
+    {
+      "id": "station_laufen",
+      "label": "B",
+      "code": "LFN",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "341"
+    },
+    {
+      "id": "station_duggingen",
+      "label": "B",
+      "code": "DUG",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "341"
+    },
+    {
+      "id": "station_dorchnach-arlesheim",
+      "label": "B",
+      "code": "DOR",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "341"
+    },
+    {
+      "id": "station_basel_gb",
+      "label": "B",
+      "code": null,
+      "typ": "unoccupied_station",
+      "tanklager": null,
+      "line": "341"
+    },
+    {
+      "id": "station_soyhières",
+      "label": "B",
+      "code": null,
+      "typ": "unoccupied_station",
+      "tanklager": null,
+      "line": "341"
+    },
+    {
+      "id": "station_liesberg",
+      "label": "B",
+      "code": null,
+      "typ": "unoccupied_station",
+      "tanklager": null,
+      "line": "341"
+    },
+    {
+      "id": "station_bärschwil",
+      "label": "B",
+      "code": null,
+      "typ": "unoccupied_station",
+      "tanklager": null,
+      "line": "341"
+    },
+    {
+      "id": "station_aesch",
+      "label": "B",
+      "code": "AE",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "341"
+    },
+    {
+      "id": "station_münchenstein",
+      "label": "B",
+      "code": "MST",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "341"
+    }
+  ],
+  "351": [
+    {
+      "id": "station_kandersteg",
+      "label": "B",
+      "code": "KA",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "351"
+    },
+    {
+      "id": "station_goppenstein",
+      "label": "B",
+      "code": "GO",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "351"
+    },
+    {
+      "id": "station_hohtenn",
+      "label": "B",
+      "code": "HT",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "351"
+    },
+    {
+      "id": "station_ausserberg",
+      "label": "B",
+      "code": "AB",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "351"
+    },
+    {
+      "id": "station_eggerberg",
+      "label": "B",
+      "code": "EB",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "351"
+    },
+    {
+      "id": "station_lalden",
+      "label": "B",
+      "code": "LL",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "351"
+    },
+    {
+      "id": "station_frutigen",
+      "label": "B",
+      "code": "FR",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "351"
+    },
+    {
+      "id": "station_kandergrund",
+      "label": "B",
+      "code": "KG",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "351"
+    },
+    {
+      "id": "station_blausee",
+      "label": "B",
+      "code": "BL",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "351"
+    }
+  ],
+  "361": [
+    {
+      "id": "station_interlaken_ost",
+      "label": "B",
+      "code": "IO",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "361"
+    },
+    {
+      "id": "station_interlaken_west",
+      "label": "B",
+      "code": "IW",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "361"
+    }
+  ],
+  "362": [
+    {
+      "id": "station_gstaad",
+      "label": "B",
+      "code": "GST",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "362"
+    },
+    {
+      "id": "station_zweisimmen",
+      "label": "B",
+      "code": "ZW",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "362"
+    }
+  ],
+  "371": [
+    {
+      "id": "station_bern_fischermätteli",
+      "label": "B",
+      "code": "BNFI",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "371"
+    },
+    {
+      "id": "station_bern_europaplatz",
+      "label": "B",
+      "code": "BNAS",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "371"
+    }
+  ],
+  "372": [
+    {
+      "id": "station_schwarzenburg",
+      "label": "B",
+      "code": "SCBG",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "372"
+    }
+  ],
+  "381": [
+    {
+      "id": "station_holligen",
+      "label": "B",
+      "code": "HOL",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "381"
+    },
+    {
+      "id": "station_rosshäusern",
+      "label": "B",
+      "code": "ROSS",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "381"
+    }
+  ],
+  "411": [
+    {
+      "id": "station_itingen",
+      "label": "B",
+      "code": "IT",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "411"
+    },
+    {
+      "id": "station_gik",
+      "label": "B",
+      "code": null,
+      "typ": "unoccupied_station",
+      "tanklager": null,
+      "line": "411"
+    },
+    {
+      "id": "station_tecknau",
+      "label": "B",
+      "code": "TK",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "411"
+    },
+    {
+      "id": "station_gelterkinden",
+      "label": "B",
+      "code": "GKD",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "411"
+    },
+    {
+      "id": "station_sissach",
+      "label": "B",
+      "code": "SIS",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "411"
+    },
+    {
+      "id": "station_liestal",
+      "label": "B",
+      "code": "LST",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "411"
+    },
+    {
+      "id": "station_frenkendorf_füllinsdorf",
+      "label": "B",
+      "code": null,
+      "typ": "Station",
+      "tanklager": null,
+      "line": "411"
+    },
+    {
+      "id": "station_pratteln",
+      "label": "B",
+      "code": "PR",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "411"
+    },
+    {
+      "id": "station_muttenz",
+      "label": "B",
+      "code": "MU",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "411"
+    },
+    {
+      "id": "station_lausen",
+      "label": "B",
+      "code": "LSN",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "411"
+    }
+  ],
+  "421": [
+    {
+      "id": "station_trimbach",
+      "label": "B",
+      "code": "TRI",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "421"
+    },
+    {
+      "id": "station_diepfingen",
+      "label": "B",
+      "code": "DIE",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "421"
+    },
+    {
+      "id": "station_somerau",
+      "label": "B",
+      "code": "SOM",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "421"
+    },
+    {
+      "id": "station_rümlingen",
+      "label": "B",
+      "code": "RLG",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "421"
+    },
+    {
+      "id": "station_buckten",
+      "label": "B",
+      "code": "BUC",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "421"
+    },
+    {
+      "id": "station_olten",
+      "label": "B",
+      "code": "OL",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "421"
+    },
+    {
+      "id": "station_läufelfingen",
+      "label": "B",
+      "code": "LF",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "421"
+    }
+  ],
+  "422": [
+    {
+      "id": "station_rothenburg",
+      "label": "B",
+      "code": "RBG",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "422"
+    },
+    {
+      "id": "station_emmenbrücke",
+      "label": "B",
+      "code": "EBR",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "422"
+    },
+    {
+      "id": "station_dagmarsellen",
+      "label": "B",
+      "code": "DAG",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "422"
+    },
+    {
+      "id": "station_rothenburg_dorf",
+      "label": "B",
+      "code": "RBGD",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "422"
+    },
+    {
+      "id": "station_st_erhard_knuttwil",
+      "label": "B",
+      "code": "STER",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "422"
+    },
+    {
+      "id": "station_sursee",
+      "label": "B",
+      "code": "SS",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "422"
+    },
+    {
+      "id": "station_oberkirch",
+      "label": "B",
+      "code": "OBK",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "422"
+    },
+    {
+      "id": "station_gersag",
+      "label": "B",
+      "code": "GSAG",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "422"
+    },
+    {
+      "id": "station_sempach_neuenkirch",
+      "label": "B",
+      "code": "SEM",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "422"
+    },
+    {
+      "id": "station_brittnau_wikon",
+      "label": "B",
+      "code": "BRIT",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "422"
+    },
+    {
+      "id": "station_nebikon",
+      "label": "B",
+      "code": "NEB",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "422"
+    },
+    {
+      "id": "station_nottwil",
+      "label": "B",
+      "code": "NO",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "422"
+    },
+    {
+      "id": "station_olten_rb",
+      "label": "B",
+      "code": null,
+      "typ": "unoccupied_station",
+      "tanklager": null,
+      "line": "422"
+    },
+    {
+      "id": "station_reiden",
+      "label": "B",
+      "code": "REID",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "422"
+    },
+    {
+      "id": "station_wauwil",
+      "label": "B",
+      "code": "WAU",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "422"
+    }
+  ],
+  "431": [
+    {
+      "id": "station_hitzkirch",
+      "label": "B",
+      "code": "HIK",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "431"
+    },
+    {
+      "id": "station_ballwil",
+      "label": "B",
+      "code": "BLL",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "431"
+    },
+    {
+      "id": "station_waldibrücke",
+      "label": "B",
+      "code": "WAB",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "431"
+    },
+    {
+      "id": "station_eschenbach",
+      "label": "B",
+      "code": "ESB",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "431"
+    },
+    {
+      "id": "station_hochdorf_schönau",
+      "label": "B",
+      "code": "HOSA",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "431"
+    },
+    {
+      "id": "station_boniswil_seengen",
+      "label": "B",
+      "code": "BONI",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "431"
+    },
+    {
+      "id": "station_baldegg_kloster",
+      "label": "B",
+      "code": "BLBK",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "431"
+    },
+    {
+      "id": "station_baldegg",
+      "label": "B",
+      "code": "BLG",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "431"
+    },
+    {
+      "id": "station_beinwil_am_see",
+      "label": "B",
+      "code": "BW",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "431"
+    },
+    {
+      "id": "station_ermensee",
+      "label": "B",
+      "code": "ESEE",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "431"
+    },
+    {
+      "id": "station_mosen",
+      "label": "B",
+      "code": "MO",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "431"
+    },
+    {
+      "id": "station_birrwil",
+      "label": "B",
+      "code": "BWL",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "431"
+    },
+    {
+      "id": "station_hochdorf",
+      "label": "B",
+      "code": "HO",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "431"
+    },
+    {
+      "id": "station_gelfingen",
+      "label": "B",
+      "code": "GELF",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "431"
+    },
+    {
+      "id": "station_hallwil_dürrenäsch",
+      "label": "B",
+      "code": "HD",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "431"
+    },
+    {
+      "id": "station_seon",
+      "label": "B",
+      "code": "SE",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "431"
+    }
+  ],
+  "436": [
+    {
+      "id": "station_mellingen",
+      "label": "B",
+      "code": null,
+      "typ": "unoccupied_station",
+      "tanklager": null,
+      "line": "436"
+    },
+    {
+      "id": "station_kölliken",
+      "label": "B",
+      "code": "KK",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "436"
+    },
+    {
+      "id": "station_zofingen",
+      "label": "B",
+      "code": "ZF",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "436"
+    },
+    {
+      "id": "station_suhr",
+      "label": "B",
+      "code": "SUHR",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "436"
+    },
+    {
+      "id": "station_safenwil",
+      "label": "B",
+      "code": "SAF",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "436"
+    },
+    {
+      "id": "station_oberentfelden",
+      "label": "B",
+      "code": "OEF",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "436"
+    },
+    {
+      "id": "station_kölliken_oberdorf",
+      "label": "B",
+      "code": "KKO",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "436"
+    },
+    {
+      "id": "station_walterswil_striegel",
+      "label": "B",
+      "code": "WAST",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "436"
+    },
+    {
+      "id": "station_küngoldingen",
+      "label": "B",
+      "code": "KGD",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "436"
+    },
+    {
+      "id": "station_wettingen",
+      "label": "B",
+      "code": null,
+      "typ": "unoccupied_station",
+      "tanklager": null,
+      "line": "436"
+    },
+    {
+      "id": "station_hunzenschwil",
+      "label": "B",
+      "code": "HU",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "436"
+    }
+  ],
+  "451": [
+    {
+      "id": "station_niederried",
+      "label": "B",
+      "code": "NR",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "451"
+    },
+    {
+      "id": "station_brienz",
+      "label": "B",
+      "code": "BRZ",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "451"
+    },
+    {
+      "id": "station_ringgenberg",
+      "label": "B",
+      "code": "RIN",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "451"
+    },
+    {
+      "id": "station_brienzwiler",
+      "label": "B",
+      "code": "BRW",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "451"
+    },
+    {
+      "id": "station_meiringen",
+      "label": "B",
+      "code": "MR",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "451"
+    },
+    {
+      "id": "station_oberried",
+      "label": "B",
+      "code": "OAB",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "451"
+    },
+    {
+      "id": "station_brienz_west",
+      "label": "B",
+      "code": "BRZW",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "451"
+    },
+    {
+      "id": "station_ebligen",
+      "label": "B",
+      "code": "EBLI",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "451"
+    }
+  ],
+  "452": [
+    {
+      "id": "station_brünig_hasliberg",
+      "label": "B",
+      "code": "BRUE",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "452"
+    },
+    {
+      "id": "station_lungern",
+      "label": "B",
+      "code": "LUN",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "452"
+    },
+    {
+      "id": "station_giswil",
+      "label": "B",
+      "code": "GI",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "452"
+    },
+    {
+      "id": "station_sarnen",
+      "label": "B",
+      "code": "SAR",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "452"
+    },
+    {
+      "id": "station_alpnach_dorf",
+      "label": "B",
+      "code": "ADF",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "452"
+    },
+    {
+      "id": "station_alpnachstad",
+      "label": "B",
+      "code": "AST",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "452"
+    },
+    {
+      "id": "station_kerns_kägiswil",
+      "label": "B",
+      "code": "KER",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "452"
+    }
+  ],
+  "453": [
+    {
+      "id": "station_luzern",
+      "label": "B",
+      "code": "LZ",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "453"
+    },
+    {
+      "id": "station_hergiswil",
+      "label": "B",
+      "code": "HGW",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "453"
+    },
+    {
+      "id": "station_horw",
+      "label": "B",
+      "code": "HW",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "453"
+    },
+    {
+      "id": "station_hergiswil_matt",
+      "label": "B",
+      "code": "MATT",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "453"
+    },
+    {
+      "id": "station_kriens_mattenhof",
+      "label": "B",
+      "code": "KRM",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "453"
+    },
+    {
+      "id": "station_eichwald",
+      "label": "B",
+      "code": null,
+      "typ": "unoccupied_station",
+      "tanklager": null,
+      "line": "453"
+    }
+  ],
+  "454": [
+    {
+      "id": "station_stansstad",
+      "label": "B",
+      "code": "SSTA",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "454"
+    },
+    {
+      "id": "station_engelberg",
+      "label": "B",
+      "code": "EBG",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "454"
+    }
+  ],
+  "461": [
+    {
+      "id": "station_zug_schutzengel",
+      "label": "B",
+      "code": "ZGSE",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "461"
+    },
+    {
+      "id": "station_zug_chollermülli",
+      "label": "B",
+      "code": "KMUE",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "461"
+    },
+    {
+      "id": "station_cham_alpenblick",
+      "label": "B",
+      "code": "CHAA",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "461"
+    },
+    {
+      "id": "station_chämleten",
+      "label": "B",
+      "code": "HUCH",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "461"
+    },
+    {
+      "id": "station_zythus",
+      "label": "B",
+      "code": null,
+      "typ": "Station",
+      "tanklager": null,
+      "line": "461"
+    },
+    {
+      "id": "station_cham",
+      "label": "B",
+      "code": "CHAM",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "461"
+    },
+    {
+      "id": "station_gisikon_root",
+      "label": "B",
+      "code": "GSK",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "461"
+    },
+    {
+      "id": "station_längenbold",
+      "label": "B",
+      "code": null,
+      "typ": "Station",
+      "tanklager": null,
+      "line": "461"
+    },
+    {
+      "id": "station_buchrain",
+      "label": "B",
+      "code": "BURN",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "461"
+    },
+    {
+      "id": "station_zug",
+      "label": "B",
+      "code": "ZG",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "461"
+    }
+  ],
+  "462": [
+    {
+      "id": "station_litti",
+      "label": "B",
+      "code": null,
+      "typ": "unoccupied_station",
+      "tanklager": null,
+      "line": "462"
+    },
+    {
+      "id": "station_baar",
+      "label": "B",
+      "code": "BAA",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "462"
+    },
+    {
+      "id": "station_baar_neufeld",
+      "label": "B",
+      "code": "BAAN",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "462"
+    },
+    {
+      "id": "station_baar_lindenpark",
+      "label": "B",
+      "code": "BAAL",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "462"
+    },
+    {
+      "id": "station_zug_postplatz",
+      "label": "B",
+      "code": "ZGPP",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "462"
+    },
+    {
+      "id": "station_zug_casino",
+      "label": "B",
+      "code": "ZGCA",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "462"
+    },
+    {
+      "id": "station_horgen_oberdorf",
+      "label": "B",
+      "code": "HGO",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "462"
+    },
+    {
+      "id": "station_walchwil",
+      "label": "B",
+      "code": "WCHW",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "462"
+    },
+    {
+      "id": "station_zug_oberwil",
+      "label": "B",
+      "code": "ZGO",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "462"
+    },
+    {
+      "id": "station_zug_fridbach",
+      "label": "B",
+      "code": "ZGFR",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "462"
+    },
+    {
+      "id": "station_walchwil_hörnli",
+      "label": "B",
+      "code": "WCHO",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "462"
+    },
+    {
+      "id": "station_sihlbrugg",
+      "label": "B",
+      "code": "SBG",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "462"
+    }
+  ],
+  "481": [
+    {
+      "id": "station_gänsbrunnen",
+      "label": "B",
+      "code": "GAE",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "481"
+    },
+    {
+      "id": "station_oberdorf",
+      "label": "B",
+      "code": "ODF",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "481"
+    }
+  ],
+  "483": [
+    {
+      "id": "station_hasle_rüegsau",
+      "label": "B",
+      "code": "HA",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "483"
+    }
+  ],
+  "491": [
+    {
+      "id": "station_wasen_i._e.",
+      "label": "B",
+      "code": "WAIE",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "491"
+    },
+    {
+      "id": "station_ramsei",
+      "label": "B",
+      "code": "RAM",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "491"
+    }
+  ],
+  "493": [
+    {
+      "id": "station_huttwil",
+      "label": "B",
+      "code": "HWIL",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "493"
+    },
+    {
+      "id": "station_langenthal",
+      "label": "B",
+      "code": "LTH",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "493"
+    }
+  ],
+  "501": [
+    {
+      "id": "station_basel_sbb",
+      "label": "B",
+      "code": "BS",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "501"
+    },
+    {
+      "id": "station_st._johann",
+      "label": "B",
+      "code": "BSSJ",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "501"
+    }
+  ],
+  "502": [
+    {
+      "id": "station_schweizerhalle",
+      "label": "B",
+      "code": null,
+      "typ": "Station",
+      "tanklager": null,
+      "line": "502"
+    },
+    {
+      "id": "station_basel_birsfelden_hafen",
+      "label": "B",
+      "code": null,
+      "typ": "unoccupied_station",
+      "tanklager": null,
+      "line": "502"
+    },
+    {
+      "id": "station_f_gruppe",
+      "label": "B",
+      "code": null,
+      "typ": "Station",
+      "tanklager": null,
+      "line": "502"
+    },
+    {
+      "id": "station_a_gruppe",
+      "label": "B",
+      "code": null,
+      "typ": "Station",
+      "tanklager": null,
+      "line": "502"
+    },
+    {
+      "id": "station_gellert",
+      "label": "B",
+      "code": null,
+      "typ": "unoccupied_station",
+      "tanklager": null,
+      "line": "502"
+    },
+    {
+      "id": "station_basel_kleinhüningen_hafen",
+      "label": "B",
+      "code": null,
+      "typ": "unoccupied_station",
+      "tanklager": null,
+      "line": "502"
+    },
+    {
+      "id": "station_basel_rb_west",
+      "label": "B",
+      "code": null,
+      "typ": "unoccupied_station",
+      "tanklager": null,
+      "line": "502"
+    },
+    {
+      "id": "station_basel_bad_bf",
+      "label": "B",
+      "code": "BAD",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "502"
+    },
+    {
+      "id": "station_eow_haltingen",
+      "label": "B",
+      "code": null,
+      "typ": "unoccupied_station",
+      "tanklager": null,
+      "line": "502"
+    }
+  ],
+  "511": [
+    {
+      "id": "station_brugg_ag",
+      "label": "B",
+      "code": "BG",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "511"
+    },
+    {
+      "id": "station_stein_säckingen",
+      "label": "B",
+      "code": "STS",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "511"
+    },
+    {
+      "id": "station_mumpf",
+      "label": "B",
+      "code": "MPF",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "511"
+    },
+    {
+      "id": "station_möhlin",
+      "label": "B",
+      "code": "MOE",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "511"
+    },
+    {
+      "id": "station_rheinfelden",
+      "label": "B",
+      "code": "RF",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "511"
+    },
+    {
+      "id": "station_kaiseraugst",
+      "label": "B",
+      "code": "KAU",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "511"
+    },
+    {
+      "id": "station_frick",
+      "label": "B",
+      "code": "FCK",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "511"
+    },
+    {
+      "id": "station_eiken",
+      "label": "B",
+      "code": "EI",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "511"
+    },
+    {
+      "id": "station_rheinfelden_augarten",
+      "label": "B",
+      "code": "RFAU",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "511"
+    },
+    {
+      "id": "station_pratteln_salina_raurica",
+      "label": "B",
+      "code": "PRSR",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "511"
+    },
+    {
+      "id": "station_hornussen",
+      "label": "B",
+      "code": null,
+      "typ": "unoccupied_station",
+      "tanklager": null,
+      "line": "511"
+    },
+    {
+      "id": "station_effingen",
+      "label": "B",
+      "code": null,
+      "typ": "unoccupied_station",
+      "tanklager": null,
+      "line": "511"
+    },
+    {
+      "id": "station_schinznach_dorf",
+      "label": "B",
+      "code": null,
+      "typ": "unoccupied_station",
+      "tanklager": null,
+      "line": "511"
+    },
+    {
+      "id": "station_villnachern",
+      "label": "B",
+      "code": null,
+      "typ": "unoccupied_station",
+      "tanklager": null,
+      "line": "511"
+    }
+  ],
+  "521": [
+    {
+      "id": "station_lupfig",
+      "label": "B",
+      "code": "LUPF",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "521"
+    },
+    {
+      "id": "station_birr",
+      "label": "B",
+      "code": "BIRR",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "521"
+    },
+    {
+      "id": "station_lenzburg",
+      "label": "B",
+      "code": "LB",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "521"
+    },
+    {
+      "id": "station_henschiken",
+      "label": "B",
+      "code": "HDK",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "521"
+    },
+    {
+      "id": "station_wohlen",
+      "label": "B",
+      "code": "WO",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "521"
+    },
+    {
+      "id": "station_dottikon_dintikon",
+      "label": "B",
+      "code": "DOT",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "521"
+    },
+    {
+      "id": "station_muri",
+      "label": "B",
+      "code": "MI",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "521"
+    },
+    {
+      "id": "station_boswil_bünzen",
+      "label": "B",
+      "code": "BOS",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "521"
+    },
+    {
+      "id": "station_mühlau",
+      "label": "B",
+      "code": "MUEH",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "521"
+    },
+    {
+      "id": "station_sins",
+      "label": "B",
+      "code": "SINS",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "521"
+    },
+    {
+      "id": "station_othmarsingen",
+      "label": "B",
+      "code": "OTH",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "521"
+    },
+    {
+      "id": "station_benzenschwil",
+      "label": "B",
+      "code": "BNZ",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "521"
+    },
+    {
+      "id": "station_gexi",
+      "label": "B",
+      "code": null,
+      "typ": "unoccupied_station",
+      "tanklager": null,
+      "line": "521"
+    },
+    {
+      "id": "station_brunegg",
+      "label": "B",
+      "code": null,
+      "typ": "unoccupied_station",
+      "tanklager": null,
+      "line": "521"
+    }
+  ],
+  "531": [
+    {
+      "id": "station_art_goldau",
+      "label": "B",
+      "code": "GD",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "531"
+    },
+    {
+      "id": "station_steinen",
+      "label": "B",
+      "code": "STN",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "531"
+    },
+    {
+      "id": "station_brunnen",
+      "label": "B",
+      "code": "BRU",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "531"
+    },
+    {
+      "id": "station_flüelen",
+      "label": "B",
+      "code": "FL",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "531"
+    },
+    {
+      "id": "station_schwyz",
+      "label": "B",
+      "code": "SCHW",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "531"
+    },
+    {
+      "id": "station_brunnmatt",
+      "label": "B",
+      "code": null,
+      "typ": "unoccupied_station",
+      "tanklager": null,
+      "line": "531"
+    },
+    {
+      "id": "station_amsteg_silenen",
+      "label": "B",
+      "code": "AS",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "531"
+    },
+    {
+      "id": "station_erstfeld",
+      "label": "B",
+      "code": "ER",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "531"
+    },
+    {
+      "id": "station_wassen",
+      "label": "B",
+      "code": "WAS",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "531"
+    },
+    {
+      "id": "station_gurtnellen",
+      "label": "B",
+      "code": "GU",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "531"
+    },
+    {
+      "id": "station_ried",
+      "label": "B",
+      "code": null,
+      "typ": "unoccupied_station",
+      "tanklager": null,
+      "line": "531"
+    },
+    {
+      "id": "station_rotkreuz",
+      "label": "B",
+      "code": "RK",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "531"
+    },
+    {
+      "id": "station_immensee",
+      "label": "B",
+      "code": "IM",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "531"
+    },
+    {
+      "id": "station_zgraggen",
+      "label": "B",
+      "code": null,
+      "typ": "unoccupied_station",
+      "tanklager": null,
+      "line": "531"
+    },
+    {
+      "id": "station_sisikon",
+      "label": "B",
+      "code": "SK",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "531"
+    }
+  ],
+  "532": [
+    {
+      "id": "station_meggen",
+      "label": "B",
+      "code": "MEG",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "532"
+    },
+    {
+      "id": "station_küssnacht_am_rigi",
+      "label": "B",
+      "code": "KUE",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "532"
+    },
+    {
+      "id": "station_verkehrshaus",
+      "label": "B",
+      "code": null,
+      "typ": "unoccupied_station",
+      "tanklager": null,
+      "line": "532"
+    },
+    {
+      "id": "station_meggen_zentrum",
+      "label": "B",
+      "code": "MEGZ",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "532"
+    },
+    {
+      "id": "station_merlischachen",
+      "label": "B",
+      "code": "MERL",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "532"
+    },
+    {
+      "id": "station_blz",
+      "label": "B",
+      "code": null,
+      "typ": "unoccupied_station",
+      "tanklager": null,
+      "line": "532"
+    }
+  ],
+  "533": [
+    {
+      "id": "station_biasca",
+      "label": "B",
+      "code": "BIA",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "533"
+    },
+    {
+      "id": "station_osogne_cresciano",
+      "label": "B",
+      "code": "OS",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "533"
+    },
+    {
+      "id": "station_claro",
+      "label": "B",
+      "code": "CLA",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "533"
+    },
+    {
+      "id": "station_castione_arbedo",
+      "label": "B",
+      "code": "CAST",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "533"
+    },
+    {
+      "id": "station_pollegio",
+      "label": "B",
+      "code": null,
+      "typ": "unoccupied_station",
+      "tanklager": null,
+      "line": "533"
+    },
+    {
+      "id": "station_altdorf",
+      "label": "B",
+      "code": "AL",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "533"
+    },
+    {
+      "id": "station_gbt",
+      "label": "B",
+      "code": null,
+      "typ": "unoccupied_station",
+      "tanklager": null,
+      "line": "533"
+    }
+  ],
+  "541": [
+    {
+      "id": "station_rodi_fiesso",
+      "label": "B",
+      "code": "RO",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "541"
+    },
+    {
+      "id": "station_ambri_piotta",
+      "label": "B",
+      "code": "AP",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "541"
+    },
+    {
+      "id": "station_faido",
+      "label": "B",
+      "code": "FA",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "541"
+    },
+    {
+      "id": "station_pionotondo",
+      "label": "B",
+      "code": "PIA",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "541"
+    },
+    {
+      "id": "station_lavorgo",
+      "label": "B",
+      "code": "LAV",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "541"
+    },
+    {
+      "id": "station_bodio",
+      "label": "B",
+      "code": "BO",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "541"
+    },
+    {
+      "id": "station_giornico",
+      "label": "B",
+      "code": "GIOC",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "541"
+    },
+    {
+      "id": "station_bellinzona",
+      "label": "B",
+      "code": "BEL",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "541"
+    },
+    {
+      "id": "station_andermatt",
+      "label": "B",
+      "code": "AND",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "541"
+    },
+    {
+      "id": "station_chiggiogna",
+      "label": "B",
+      "code": null,
+      "typ": "unoccupied_station",
+      "tanklager": null,
+      "line": "541"
+    },
+    {
+      "id": "station_pardorea",
+      "label": "B",
+      "code": null,
+      "typ": "unoccupied_station",
+      "tanklager": null,
+      "line": "541"
+    },
+    {
+      "id": "station_airolo",
+      "label": "B",
+      "code": "AI",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "541"
+    },
+    {
+      "id": "station_göschenen",
+      "label": "B",
+      "code": "GOE",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "541"
+    }
+  ],
+  "542": [
+    {
+      "id": "station_rivera_bironico",
+      "label": "B",
+      "code": "RIB",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "542"
+    },
+    {
+      "id": "station_lugano",
+      "label": "B",
+      "code": "LG",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "542"
+    },
+    {
+      "id": "station_mezzovico",
+      "label": "B",
+      "code": "MEZ",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "542"
+    },
+    {
+      "id": "station_melide",
+      "label": "B",
+      "code": "MDE",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "542"
+    },
+    {
+      "id": "station_capolago",
+      "label": "B",
+      "code": "CAP",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "542"
+    },
+    {
+      "id": "station_balerna",
+      "label": "B",
+      "code": null,
+      "typ": "Station",
+      "tanklager": null,
+      "line": "542"
+    },
+    {
+      "id": "station_chiasso_smistamento",
+      "label": "B",
+      "code": null,
+      "typ": "unoccupied_station",
+      "tanklager": null,
+      "line": "542"
+    },
+    {
+      "id": "station_stabio",
+      "label": "B",
+      "code": "STAO",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "542"
+    },
+    {
+      "id": "station_mendrisio",
+      "label": "B",
+      "code": "MEN",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "542"
+    },
+    {
+      "id": "station_lugano_vedeggio",
+      "label": "B",
+      "code": null,
+      "typ": "unoccupied_station",
+      "tanklager": null,
+      "line": "542"
+    },
+    {
+      "id": "station_taverne_torricella",
+      "label": "B",
+      "code": "TAV",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "542"
+    },
+    {
+      "id": "station_giubiasco",
+      "label": "B",
+      "code": "GIU",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "542"
+    },
+    {
+      "id": "station_vezia",
+      "label": "B",
+      "code": null,
+      "typ": "unoccupied_station",
+      "tanklager": null,
+      "line": "542"
+    },
+    {
+      "id": "station_lugano_paradiso",
+      "label": "B",
+      "code": "LGP",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "542"
+    },
+    {
+      "id": "station_vigana",
+      "label": "B",
+      "code": null,
+      "typ": "unoccupied_station",
+      "tanklager": null,
+      "line": "542"
+    },
+    {
+      "id": "station_al_motto",
+      "label": "B",
+      "code": null,
+      "typ": "unoccupied_station",
+      "tanklager": null,
+      "line": "542"
+    },
+    {
+      "id": "station_tanklager_stabio",
+      "label": "B",
+      "code": null,
+      "typ": "unoccupied_station",
+      "tanklager": null,
+      "line": "542"
+    },
+    {
+      "id": "station_cbt",
+      "label": "B",
+      "code": null,
+      "typ": "unoccupied_station",
+      "tanklager": null,
+      "line": "542"
+    },
+    {
+      "id": "station_spao",
+      "label": "B",
+      "code": null,
+      "typ": "unoccupied_station",
+      "tanklager": null,
+      "line": "542"
+    }
+  ],
+  "551": [
+    {
+      "id": "station_locarno",
+      "label": "B",
+      "code": "LO",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "551"
+    },
+    {
+      "id": "station_cadenazzo",
+      "label": "B",
+      "code": "CD",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "551"
+    },
+    {
+      "id": "station_riazzino",
+      "label": "B",
+      "code": "RIAZ",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "551"
+    },
+    {
+      "id": "station_gordola",
+      "label": "B",
+      "code": "GDA",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "551"
+    },
+    {
+      "id": "station_s_antonino",
+      "label": "B",
+      "code": "SAN",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "551"
+    },
+    {
+      "id": "station_tenero",
+      "label": "B",
+      "code": "TEN",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "551"
+    }
+  ],
+  "552": [
+    {
+      "id": "station_san_nazzaro",
+      "label": "B",
+      "code": "SANA",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "552"
+    },
+    {
+      "id": "station_magadino_vira",
+      "label": "B",
+      "code": "MAG",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "552"
+    },
+    {
+      "id": "station_ranzo",
+      "label": "B",
+      "code": "RZO",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "552"
+    },
+    {
+      "id": "station_pino_tronzano",
+      "label": "B",
+      "code": "PINT",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "552"
+    },
+    {
+      "id": "station_maccagno",
+      "label": "B",
+      "code": "MAC",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "552"
+    },
+    {
+      "id": "station_luino",
+      "label": "B",
+      "code": "LI",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "552"
+    },
+    {
+      "id": "station_gerra",
+      "label": "B",
+      "code": "GER",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "552"
+    }
+  ],
+  "601": [
+    {
+      "id": "station_siggenthal_würenlingen",
+      "label": "B",
+      "code": "SIG",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "601"
+    },
+    {
+      "id": "station_felsenau",
+      "label": "B",
+      "code": null,
+      "typ": "unoccupied_station",
+      "tanklager": null,
+      "line": "601"
+    },
+    {
+      "id": "station_full",
+      "label": "B",
+      "code": null,
+      "typ": "unoccupied_station",
+      "tanklager": null,
+      "line": "601"
+    },
+    {
+      "id": "station_leibstadt",
+      "label": "B",
+      "code": null,
+      "typ": "unoccupied_station",
+      "tanklager": null,
+      "line": "601"
+    },
+    {
+      "id": "station_schwaderloch",
+      "label": "B",
+      "code": null,
+      "typ": "unoccupied_station",
+      "tanklager": null,
+      "line": "601"
+    },
+    {
+      "id": "station_etzgen",
+      "label": "B",
+      "code": null,
+      "typ": "unoccupied_station",
+      "tanklager": null,
+      "line": "601"
+    },
+    {
+      "id": "station_döttingen",
+      "label": "B",
+      "code": "DOE",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "601"
+    },
+    {
+      "id": "station_beznau",
+      "label": "B",
+      "code": null,
+      "typ": "unoccupied_station",
+      "tanklager": null,
+      "line": "601"
+    },
+    {
+      "id": "station_ang_siggenthal",
+      "label": "B",
+      "code": null,
+      "typ": "unoccupied_station",
+      "tanklager": null,
+      "line": "601"
+    },
+    {
+      "id": "station_koblenz",
+      "label": "B",
+      "code": "KB",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "601"
+    },
+    {
+      "id": "station_klingnau",
+      "label": "B",
+      "code": "KLI",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "601"
+    },
+    {
+      "id": "station_neuenhof",
+      "label": "B",
+      "code": "NHOF",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "601"
+    },
+    {
+      "id": "station_turgi",
+      "label": "B",
+      "code": "TG",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "601"
+    },
+    {
+      "id": "station_baden",
+      "label": "B",
+      "code": "BD",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "601"
+    },
+    {
+      "id": "station_sisseln",
+      "label": "B",
+      "code": null,
+      "typ": "unoccupied_station",
+      "tanklager": null,
+      "line": "601"
+    },
+    {
+      "id": "station_laufenburg",
+      "label": "B",
+      "code": "LFG",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "601"
+    }
+  ],
+  "602": [
+    {
+      "id": "station_winterthur_töss",
+      "label": "B",
+      "code": "WTOE",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "602"
+    },
+    {
+      "id": "station_winterthur",
+      "label": "B",
+      "code": "W",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "602"
+    },
+    {
+      "id": "station_pfungen_neftenbach",
+      "label": "B",
+      "code": "PFU",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "602"
+    },
+    {
+      "id": "station_winterthur_wülflingen",
+      "label": "B",
+      "code": "WWUE",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "602"
+    },
+    {
+      "id": "station_embrach_rorbas",
+      "label": "B",
+      "code": "EMB",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "602"
+    },
+    {
+      "id": "station_rietheim",
+      "label": "B",
+      "code": "RIET",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "602"
+    },
+    {
+      "id": "station_bad_zurzach",
+      "label": "B",
+      "code": "ZZ",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "602"
+    },
+    {
+      "id": "station_mellikon",
+      "label": "B",
+      "code": "MELN",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "602"
+    },
+    {
+      "id": "station_rümikon",
+      "label": "B",
+      "code": "RUEN",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "602"
+    },
+    {
+      "id": "station_rekingen",
+      "label": "B",
+      "code": "REK",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "602"
+    },
+    {
+      "id": "station_zweidlen",
+      "label": "B",
+      "code": "ZWD",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "602"
+    },
+    {
+      "id": "station_kaiserstuhl",
+      "label": "B",
+      "code": "KAI",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "602"
+    },
+    {
+      "id": "station_weiach_kaiserstuhl",
+      "label": "B",
+      "code": null,
+      "typ": "unoccupied_station",
+      "tanklager": null,
+      "line": "602"
+    },
+    {
+      "id": "station_koblenz_dorf",
+      "label": "B",
+      "code": "KBD",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "602"
+    }
+  ],
+  "611": [
+    {
+      "id": "station_rümlang",
+      "label": "B",
+      "code": "RUEM",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "611"
+    },
+    {
+      "id": "station_glattbrugg",
+      "label": "B",
+      "code": "GLB",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "611"
+    },
+    {
+      "id": "station_hüntwangen_wil",
+      "label": "B",
+      "code": "HUEW",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "611"
+    },
+    {
+      "id": "station_rafz",
+      "label": "B",
+      "code": "RZ",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "611"
+    },
+    {
+      "id": "station_neuhausen",
+      "label": "B",
+      "code": "NH",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "611"
+    },
+    {
+      "id": "station_niederglatt",
+      "label": "B",
+      "code": "NG",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "611"
+    },
+    {
+      "id": "station_oberglatt",
+      "label": "B",
+      "code": "OGL",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "611"
+    },
+    {
+      "id": "station_glattfelden",
+      "label": "B",
+      "code": "GF",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "611"
+    },
+    {
+      "id": "station_jestetten",
+      "label": "B",
+      "code": "JE",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "611"
+    },
+    {
+      "id": "station_altenburg_rheinau",
+      "label": "B",
+      "code": "AR",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "611"
+    },
+    {
+      "id": "station_eglisau",
+      "label": "B",
+      "code": "EGL",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "611"
+    },
+    {
+      "id": "station_bülach",
+      "label": "B",
+      "code": "BUE",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "611"
+    },
+    {
+      "id": "station_lottstetten",
+      "label": "B",
+      "code": "LOT",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "611"
+    },
+    {
+      "id": "station_schaffhausen",
+      "label": "B",
+      "code": "SH",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "611"
+    },
+    {
+      "id": "station_tarl",
+      "label": "B",
+      "code": null,
+      "typ": "unoccupied_station",
+      "tanklager": null,
+      "line": "611"
+    },
+    {
+      "id": "station_tl_ng",
+      "label": "B",
+      "code": null,
+      "typ": "unoccupied_station",
+      "tanklager": null,
+      "line": "611"
+    },
+    {
+      "id": "station_schaffhausen-1",
+      "label": "B",
+      "code": null,
+      "typ": "Station",
+      "tanklager": null,
+      "line": "611"
+    }
+  ],
+  "612": [
+    {
+      "id": "station_niederweningen",
+      "label": "B",
+      "code": "NW",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "612"
+    },
+    {
+      "id": "station_dielsdorf",
+      "label": "B",
+      "code": "DI",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "612"
+    },
+    {
+      "id": "station_niederweningen_dorf",
+      "label": "B",
+      "code": "NWD",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "612"
+    },
+    {
+      "id": "station_schöfflisdorf_oberweningen",
+      "label": "B",
+      "code": "SCHO",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "612"
+    },
+    {
+      "id": "station_steinmaur",
+      "label": "B",
+      "code": "STMR",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "612"
+    }
+  ],
+  "631": [
+    {
+      "id": "station_wollishofen",
+      "label": "B",
+      "code": "ZWOL",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "631"
+    },
+    {
+      "id": "station_thalwil",
+      "label": "B",
+      "code": "TW",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "631"
+    },
+    {
+      "id": "station_oberrieden",
+      "label": "B",
+      "code": "ORD",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "631"
+    },
+    {
+      "id": "station_horgen",
+      "label": "B",
+      "code": "HG",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "631"
+    },
+    {
+      "id": "station_au_zh",
+      "label": "B",
+      "code": "AU",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "631"
+    },
+    {
+      "id": "station_richerswil",
+      "label": "B",
+      "code": "RI",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "631"
+    },
+    {
+      "id": "station_wädenswil",
+      "label": "B",
+      "code": "WAE",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "631"
+    },
+    {
+      "id": "station_bäch",
+      "label": "B",
+      "code": "BAE",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "631"
+    },
+    {
+      "id": "station_wiedikon",
+      "label": "B",
+      "code": "ZWIE",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "631"
+    },
+    {
+      "id": "station_kilchberg",
+      "label": "B",
+      "code": "KIL",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "631"
+    },
+    {
+      "id": "station_enge",
+      "label": "B",
+      "code": "ENGE",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "631"
+    },
+    {
+      "id": "station_rüschlikon",
+      "label": "B",
+      "code": "RUES",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "631"
+    },
+    {
+      "id": "station_zimmerberg_basistunnel",
+      "label": "B",
+      "code": null,
+      "typ": "unoccupied_station",
+      "tanklager": null,
+      "line": "631"
+    }
+  ],
+  "632": [
+    {
+      "id": "station_urdorf",
+      "label": "B",
+      "code": "URD",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "632"
+    },
+    {
+      "id": "station_urdorf_weihermatt",
+      "label": "B",
+      "code": "URDW",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "632"
+    },
+    {
+      "id": "station_birmensdorf",
+      "label": "B",
+      "code": "BIR",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "632"
+    },
+    {
+      "id": "station_bonstetten_wettswil",
+      "label": "B",
+      "code": "BON",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "632"
+    },
+    {
+      "id": "station_hedingen",
+      "label": "B",
+      "code": "HED",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "632"
+    },
+    {
+      "id": "station_affoltern_am_albis",
+      "label": "B",
+      "code": "AF",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "632"
+    },
+    {
+      "id": "station_steinhausen",
+      "label": "B",
+      "code": "STE",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "632"
+    }
+  ],
+  "636": [
+    {
+      "id": "station_uetliberg",
+      "label": "B",
+      "code": "UEBE",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "636"
+    },
+    {
+      "id": "station_borrweg",
+      "label": "B",
+      "code": "BORR",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "636"
+    }
+  ],
+  "641": [
+    {
+      "id": "station_flums",
+      "label": "B",
+      "code": "FMS",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "641"
+    },
+    {
+      "id": "station_walenstadt",
+      "label": "B",
+      "code": "WAL",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "641"
+    },
+    {
+      "id": "station_mols",
+      "label": "B",
+      "code": "MOLS",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "641"
+    },
+    {
+      "id": "station_mels",
+      "label": "B",
+      "code": "MELS",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "641"
+    },
+    {
+      "id": "station_altendorf",
+      "label": "B",
+      "code": "ALTD",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "641"
+    },
+    {
+      "id": "station_lachen",
+      "label": "B",
+      "code": "LA",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "641"
+    },
+    {
+      "id": "station_siebnen_wangen",
+      "label": "B",
+      "code": "SIB",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "641"
+    },
+    {
+      "id": "station_schüberbach_buttikon",
+      "label": "B",
+      "code": "SCBU",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "641"
+    },
+    {
+      "id": "station_reichenburg",
+      "label": "B",
+      "code": "RG",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "641"
+    },
+    {
+      "id": "station_bilten",
+      "label": "B",
+      "code": "BIL",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "641"
+    },
+    {
+      "id": "station_weesen",
+      "label": "B",
+      "code": "WN",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "641"
+    },
+    {
+      "id": "station_ziegelbrücke",
+      "label": "B",
+      "code": "ZB",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "641"
+    },
+    {
+      "id": "station_murg",
+      "label": "B",
+      "code": "MG",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "641"
+    },
+    {
+      "id": "station_mühlehorn",
+      "label": "B",
+      "code": "MH",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "641"
+    },
+    {
+      "id": "station_sargans",
+      "label": "B",
+      "code": "SA",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "641"
+    }
+  ],
+  "642": [
+    {
+      "id": "station_oberrieden_dorf",
+      "label": "B",
+      "code": "ORDD",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "642"
+    },
+    {
+      "id": "station_sevelen",
+      "label": "B",
+      "code": "SEV",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "642"
+    },
+    {
+      "id": "station_räfis_burgerau",
+      "label": "B",
+      "code": "RAEF",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "642"
+    },
+    {
+      "id": "station_bad_ragaz",
+      "label": "B",
+      "code": "BRAG",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "642"
+    },
+    {
+      "id": "station_trübbach",
+      "label": "B",
+      "code": "TRUE",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "642"
+    },
+    {
+      "id": "station_landquart",
+      "label": "B",
+      "code": "LQ",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "642"
+    },
+    {
+      "id": "station_chur",
+      "label": "B",
+      "code": "CH",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "642"
+    },
+    {
+      "id": "station_maienfeld",
+      "label": "B",
+      "code": "MF",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "642"
+    },
+    {
+      "id": "station_buchs_sg",
+      "label": "B",
+      "code": "BU",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "642"
+    },
+    {
+      "id": "station_buchs_rb",
+      "label": "B",
+      "code": null,
+      "typ": "unoccupied_station",
+      "tanklager": null,
+      "line": "642"
+    },
+    {
+      "id": "station_weite",
+      "label": "B",
+      "code": "WEI",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "642"
+    },
+    {
+      "id": "station_tanklager_sennwald",
+      "label": "B",
+      "code": "SAS",
+      "typ": "unoccupied_station",
+      "tanklager": null,
+      "line": "642"
+    },
+    {
+      "id": "station_tl-häggenschwil_winden-7",
+      "label": "B",
+      "code": null,
+      "typ": "unoccupied_station",
+      "tanklager": null,
+      "line": "642"
+    },
+    {
+      "id": "station_tl-häggenschwil_winden-7-5",
+      "label": "B",
+      "code": null,
+      "typ": "unoccupied_station",
+      "tanklager": null,
+      "line": "642"
+    }
+  ],
+  "651": [
+    {
+      "id": "station_uerikon",
+      "label": "B",
+      "code": "UER",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "651"
+    },
+    {
+      "id": "station_feldbach",
+      "label": "B",
+      "code": "FB",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "651"
+    },
+    {
+      "id": "station_küsnacht_zh",
+      "label": "B",
+      "code": "KUES",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "651"
+    },
+    {
+      "id": "station_erlenbach_zh",
+      "label": "B",
+      "code": "ERLB",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "651"
+    },
+    {
+      "id": "station_herrliberg_feldmeilen",
+      "label": "B",
+      "code": "HERL",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "651"
+    },
+    {
+      "id": "station_meilen",
+      "label": "B",
+      "code": "ML",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "651"
+    },
+    {
+      "id": "station_uetikon",
+      "label": "B",
+      "code": "UET",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "651"
+    },
+    {
+      "id": "station_küsnacht_goldbach",
+      "label": "B",
+      "code": "KGO",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "651"
+    },
+    {
+      "id": "station_winkel_am_zürichsee",
+      "label": "B",
+      "code": "WIN",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "651"
+    },
+    {
+      "id": "station_männedorf",
+      "label": "B",
+      "code": "MAEN",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "651"
+    },
+    {
+      "id": "station_kempraten",
+      "label": "B",
+      "code": "KPT",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "651"
+    },
+    {
+      "id": "station_tiefenbrunnen",
+      "label": "B",
+      "code": "ZTB",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "651"
+    },
+    {
+      "id": "station_stäfa",
+      "label": "B",
+      "code": "STAE",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "651"
+    },
+    {
+      "id": "station_rapperswil",
+      "label": "B",
+      "code": "RW",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "651"
+    },
+    {
+      "id": "station_stadelhofen",
+      "label": "B",
+      "code": "ZSTH",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "651"
+    },
+    {
+      "id": "station_zollikon",
+      "label": "B",
+      "code": "ZK",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "651"
+    }
+  ],
+  "652": [
+    {
+      "id": "station_stettbach",
+      "label": "B",
+      "code": "STET",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "652"
+    },
+    {
+      "id": "station_schwerzenbach_zh",
+      "label": "B",
+      "code": "SCWE",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "652"
+    },
+    {
+      "id": "station_dübendorf",
+      "label": "B",
+      "code": "DUE",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "652"
+    },
+    {
+      "id": "station_uster",
+      "label": "B",
+      "code": "UST",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "652"
+    },
+    {
+      "id": "station_bubikon",
+      "label": "B",
+      "code": "BUB",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "652"
+    },
+    {
+      "id": "station_wetzikon",
+      "label": "B",
+      "code": "WZ",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "652"
+    },
+    {
+      "id": "station_aathal",
+      "label": "B",
+      "code": "AAT",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "652"
+    },
+    {
+      "id": "station_nänikon_greifensee",
+      "label": "B",
+      "code": "NAEN",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "652"
+    }
+  ],
+  "661": [
+    {
+      "id": "station_illnau",
+      "label": "B",
+      "code": "IL",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "661"
+    },
+    {
+      "id": "station_pfäffikon_zh",
+      "label": "B",
+      "code": "PFZ",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "661"
+    },
+    {
+      "id": "station_fehraltdorf",
+      "label": "B",
+      "code": "FET",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "661"
+    },
+    {
+      "id": "station_effretikon",
+      "label": "B",
+      "code": "EF",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "661"
+    },
+    {
+      "id": "station_kemptthal",
+      "label": "B",
+      "code": "KE",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "661"
+    },
+    {
+      "id": "station_kempten",
+      "label": "B",
+      "code": "KN",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "661"
+    },
+    {
+      "id": "station_ettenhausen_emmetschloo",
+      "label": "B",
+      "code": "ETH",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "661"
+    },
+    {
+      "id": "station_bäretswil_tobel",
+      "label": "B",
+      "code": null,
+      "typ": "unoccupied_station",
+      "tanklager": null,
+      "line": "661"
+    },
+    {
+      "id": "station_bäretswil",
+      "label": "B",
+      "code": "BAEW",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "661"
+    },
+    {
+      "id": "station_hinwil",
+      "label": "B",
+      "code": "HI",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "661"
+    },
+    {
+      "id": "station_bauma",
+      "label": "B",
+      "code": "BMA",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "661"
+    },
+    {
+      "id": "station_hürlistein",
+      "label": "B",
+      "code": null,
+      "typ": "unoccupied_station",
+      "tanklager": null,
+      "line": "661"
+    }
+  ],
+  "701": [
+    {
+      "id": "station_wipkingen",
+      "label": "B",
+      "code": "ZWIP",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "701"
+    }
+  ],
+  "702": [
+    {
+      "id": "station_zürich_flughafen",
+      "label": "B",
+      "code": "ZFH",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "702"
+    },
+    {
+      "id": "station_bassersdorf",
+      "label": "B",
+      "code": "BSD",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "702"
+    },
+    {
+      "id": "station_kloten_balsberg",
+      "label": "B",
+      "code": "KLB",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "702"
+    },
+    {
+      "id": "station_kloten",
+      "label": "B",
+      "code": "KL",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "702"
+    },
+    {
+      "id": "station_opfikon",
+      "label": "B",
+      "code": "OP",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "702"
+    },
+    {
+      "id": "station_wallisellen",
+      "label": "B",
+      "code": "WS",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "702"
+    },
+    {
+      "id": "station_dietlikon",
+      "label": "B",
+      "code": "DTL",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "702"
+    },
+    {
+      "id": "station_winterthur_rb",
+      "label": "B",
+      "code": null,
+      "typ": "unoccupied_station",
+      "tanklager": null,
+      "line": "702"
+    }
+  ],
+  "711": [
+    {
+      "id": "station_schottikon",
+      "label": "B",
+      "code": "SCHK",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "711"
+    },
+    {
+      "id": "station_räterschen",
+      "label": "B",
+      "code": "RAET",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "711"
+    },
+    {
+      "id": "station_winterthur_grüze",
+      "label": "B",
+      "code": "WGR",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "711"
+    },
+    {
+      "id": "station_aardorf",
+      "label": "B",
+      "code": null,
+      "typ": "Station",
+      "tanklager": null,
+      "line": "711"
+    },
+    {
+      "id": "station_eschlikon",
+      "label": "B",
+      "code": "ESL",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "711"
+    },
+    {
+      "id": "station_guntershausen",
+      "label": "B",
+      "code": "GUN",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "711"
+    },
+    {
+      "id": "station_elgg",
+      "label": "B",
+      "code": "EL",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "711"
+    },
+    {
+      "id": "station_wil",
+      "label": "B",
+      "code": "WIL",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "711"
+    },
+    {
+      "id": "station_sirnach",
+      "label": "B",
+      "code": "SIR",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "711"
+    },
+    {
+      "id": "station_winterthur_hegi",
+      "label": "B",
+      "code": "WHE",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "711"
+    },
+    {
+      "id": "station_schwarzenbach_sg",
+      "label": "B",
+      "code": "SCHZ",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "711"
+    },
+    {
+      "id": "station_uzwil",
+      "label": "B",
+      "code": "UZW",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "711"
+    },
+    {
+      "id": "station_flawil",
+      "label": "B",
+      "code": "FLA",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "711"
+    },
+    {
+      "id": "station_st_gallen_winkeln",
+      "label": "B",
+      "code": "SGWI",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "711"
+    },
+    {
+      "id": "station_st_gallen_st_fiden",
+      "label": "B",
+      "code": "SGF",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "711"
+    },
+    {
+      "id": "station_st_gallen",
+      "label": "B",
+      "code": "SG",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "711"
+    },
+    {
+      "id": "station_algetshausen_henau",
+      "label": "B",
+      "code": "ALG",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "711"
+    },
+    {
+      "id": "station_gossau_sg",
+      "label": "B",
+      "code": "GSS",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "711"
+    },
+    {
+      "id": "station_st_gallen_bruggen",
+      "label": "B",
+      "code": "SGBR",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "711"
+    }
+  ],
+  "721": [
+    {
+      "id": "station_goldach",
+      "label": "B",
+      "code": "GOL",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "721"
+    },
+    {
+      "id": "station_staad",
+      "label": "B",
+      "code": "STA",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "721"
+    },
+    {
+      "id": "station_salez_sennwald",
+      "label": "B",
+      "code": "SAS",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "721"
+    },
+    {
+      "id": "station_oberriet",
+      "label": "B",
+      "code": "ORT",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "721"
+    },
+    {
+      "id": "station_altstätten_sg",
+      "label": "B",
+      "code": "ALT",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "721"
+    },
+    {
+      "id": "station_au_sg",
+      "label": "B",
+      "code": "AUSG",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "721"
+    },
+    {
+      "id": "station_rebstein_marbach",
+      "label": "B",
+      "code": "REB",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "721"
+    },
+    {
+      "id": "station_heerbrugg",
+      "label": "B",
+      "code": "HEBG",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "721"
+    },
+    {
+      "id": "station_rheineck",
+      "label": "B",
+      "code": "RCK",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "721"
+    },
+    {
+      "id": "station_rorschach",
+      "label": "B",
+      "code": "RS",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "721"
+    },
+    {
+      "id": "station_st_margrethen",
+      "label": "B",
+      "code": "SMG",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "721"
+    },
+    {
+      "id": "station_haag_gams",
+      "label": "B",
+      "code": "HAG",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "721"
+    },
+    {
+      "id": "station_mörschwil",
+      "label": "B",
+      "code": "MOER",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "721"
+    },
+    {
+      "id": "station_rorschach_stadt",
+      "label": "B",
+      "code": "RSST",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "721"
+    }
+  ],
+  "731": [
+    {
+      "id": "station_hettlingen",
+      "label": "B",
+      "code": "HET",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "731"
+    },
+    {
+      "id": "station_henggart",
+      "label": "B",
+      "code": "HGT",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "731"
+    },
+    {
+      "id": "station_schloss_laufen",
+      "label": "B",
+      "code": "SLF",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "731"
+    },
+    {
+      "id": "station_marthalen",
+      "label": "B",
+      "code": "MTL",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "731"
+    },
+    {
+      "id": "station_andelfingen",
+      "label": "B",
+      "code": "AN",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "731"
+    },
+    {
+      "id": "station_dachsen",
+      "label": "B",
+      "code": "DA",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "731"
+    }
+  ],
+  "732": [
+    {
+      "id": "station_seuzach",
+      "label": "B",
+      "code": "SEU",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "732"
+    },
+    {
+      "id": "station_thalheim_altikon",
+      "label": "B",
+      "code": "TLH",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "732"
+    },
+    {
+      "id": "station_ossingen",
+      "label": "B",
+      "code": "OSS",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "732"
+    },
+    {
+      "id": "station_wallrüti",
+      "label": "B",
+      "code": "WWAL",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "732"
+    },
+    {
+      "id": "station_reutlingen",
+      "label": "B",
+      "code": "REUT",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "732"
+    },
+    {
+      "id": "station_dinhard",
+      "label": "B",
+      "code": "DIH",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "732"
+    },
+    {
+      "id": "station_oberwinterthur",
+      "label": "B",
+      "code": "OWT",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "732"
+    }
+  ],
+  "741": [
+    {
+      "id": "station_oberwintherthur_ua",
+      "label": "B",
+      "code": null,
+      "typ": "unoccupied_station",
+      "tanklager": null,
+      "line": "741"
+    },
+    {
+      "id": "station_rickenbach_attikon",
+      "label": "B",
+      "code": "RIK",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "741"
+    },
+    {
+      "id": "station_islikon",
+      "label": "B",
+      "code": "ISL",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "741"
+    },
+    {
+      "id": "station_felben_wellhausen",
+      "label": "B",
+      "code": "FEL",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "741"
+    },
+    {
+      "id": "station_müllheim_wigoltingen",
+      "label": "B",
+      "code": "MUEL",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "741"
+    },
+    {
+      "id": "station_hüttlingen_mettendorf",
+      "label": "B",
+      "code": "HM",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "741"
+    },
+    {
+      "id": "station_frauenfeld_paketpost",
+      "label": "B",
+      "code": null,
+      "typ": "unoccupied_station",
+      "tanklager": null,
+      "line": "741"
+    },
+    {
+      "id": "station_oberaach",
+      "label": "B",
+      "code": "OA",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "741"
+    },
+    {
+      "id": "station_sulgen",
+      "label": "B",
+      "code": "SLG",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "741"
+    },
+    {
+      "id": "station_bürglen",
+      "label": "B",
+      "code": "BGL",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "741"
+    },
+    {
+      "id": "station_märstetten",
+      "label": "B",
+      "code": "MAER",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "741"
+    },
+    {
+      "id": "station_amriswil",
+      "label": "B",
+      "code": "AW",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "741"
+    },
+    {
+      "id": "station_romanshorn",
+      "label": "B",
+      "code": "RH",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "741"
+    },
+    {
+      "id": "station_erlen",
+      "label": "B",
+      "code": "ERL",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "741"
+    },
+    {
+      "id": "station_frauenfeld",
+      "label": "B",
+      "code": "FF",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "741"
+    },
+    {
+      "id": "station_weinfelden",
+      "label": "B",
+      "code": "WF",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "741"
+    }
+  ],
+  "742": [
+    {
+      "id": "station_kradolf",
+      "label": "B",
+      "code": "KRA",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "742"
+    },
+    {
+      "id": "station_bischofszell_nord",
+      "label": "B",
+      "code": "BZN",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "742"
+    },
+    {
+      "id": "station_bischofszell Stadt",
+      "label": "B",
+      "code": "BZS",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "742"
+    },
+    {
+      "id": "station_hauptwil",
+      "label": "B",
+      "code": "HPT",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "742"
+    },
+    {
+      "id": "station_arnegg",
+      "label": "B",
+      "code": "ARN",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "742"
+    },
+    {
+      "id": "station_sitterdorf",
+      "label": "B",
+      "code": "SIT",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "742"
+    }
+  ],
+  "751": [
+    {
+      "id": "station_uznach",
+      "label": "B",
+      "code": "UZ",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "751"
+    },
+    {
+      "id": "station_blumenau",
+      "label": "B",
+      "code": "BLU",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "751"
+    },
+    {
+      "id": "station_bollingen",
+      "label": "B",
+      "code": null,
+      "typ": "unoccupied_station",
+      "tanklager": null,
+      "line": "751"
+    },
+    {
+      "id": "station_benken",
+      "label": "B",
+      "code": "BNK",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "751"
+    },
+    {
+      "id": "station_schänis",
+      "label": "B",
+      "code": "SCAE",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "751"
+    },
+    {
+      "id": "station_ennenda",
+      "label": "B",
+      "code": "EDA",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "751"
+    },
+    {
+      "id": "station_mitlödi",
+      "label": "B",
+      "code": "MIT",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "751"
+    },
+    {
+      "id": "station_nidfurn_haslen",
+      "label": "B",
+      "code": "NID",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "751"
+    },
+    {
+      "id": "station_leuggelbach",
+      "label": "B",
+      "code": "LGB",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "751"
+    },
+    {
+      "id": "station_diesbach_betschwanden",
+      "label": "B",
+      "code": "DSB",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "751"
+    },
+    {
+      "id": "station_rüti_gl",
+      "label": "B",
+      "code": "RUET",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "751"
+    },
+    {
+      "id": "station_linthal_braunwaldbahn",
+      "label": "B",
+      "code": "LINB",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "751"
+    },
+    {
+      "id": "station_schwanden",
+      "label": "B",
+      "code": "SCHD",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "751"
+    },
+    {
+      "id": "station_linthal",
+      "label": "B",
+      "code": "LIN",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "751"
+    },
+    {
+      "id": "station_näfels_mollis",
+      "label": "B",
+      "code": "NAEF",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "751"
+    },
+    {
+      "id": "station_nieder_und_oberurnen",
+      "label": "B",
+      "code": "NOU",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "751"
+    },
+    {
+      "id": "station_netstal",
+      "label": "B",
+      "code": "NET",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "751"
+    },
+    {
+      "id": "station_glarus",
+      "label": "B",
+      "code": "GL",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "751"
+    },
+    {
+      "id": "station_luchsingen_betschwanden",
+      "label": "B",
+      "code": "LU",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "751"
+    },
+    {
+      "id": "station_schmerikon",
+      "label": "B",
+      "code": "SCME",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "751"
+    }
+  ],
+  "752": [
+    {
+      "id": "station_kaltbrunn",
+      "label": "B",
+      "code": "KAB",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "752"
+    },
+    {
+      "id": "station_hurden",
+      "label": "B",
+      "code": "HUR",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "752"
+    },
+    {
+      "id": "station_pfäffikon_sz",
+      "label": "B",
+      "code": "PF",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "752"
+    },
+    {
+      "id": "station_wattwil",
+      "label": "B",
+      "code": "WA",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "752"
+    }
+  ],
+  "753": [
+    {
+      "id": "station_ebnat_kappel",
+      "label": "B",
+      "code": "EK",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "753"
+    },
+    {
+      "id": "station_nesslau",
+      "label": "B",
+      "code": "NL",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "753"
+    },
+    {
+      "id": "station_krummenau",
+      "label": "B",
+      "code": "KRU",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "753"
+    },
+    {
+      "id": "station_bazenheid",
+      "label": "B",
+      "code": "BAZ",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "753"
+    },
+    {
+      "id": "station_bütschwil",
+      "label": "B",
+      "code": "BUET",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "753"
+    },
+    {
+      "id": "station_lichtensteig",
+      "label": "B",
+      "code": "LSG",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "753"
+    },
+    {
+      "id": "station_dietfurt",
+      "label": "B",
+      "code": "DTF",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "753"
+    },
+    {
+      "id": "station_lütisburg",
+      "label": "B",
+      "code": "LUET",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "753"
+    }
+  ],
+  "754": [
+    {
+      "id": "station_tann_dürnten",
+      "label": "B",
+      "code": "TD",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "754"
+    },
+    {
+      "id": "station_jona",
+      "label": "B",
+      "code": "JO",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "754"
+    },
+    {
+      "id": "station_rüti_zh",
+      "label": "B",
+      "code": "RUE",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "754"
+    },
+    {
+      "id": "station_wald",
+      "label": "B",
+      "code": "WL",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "754"
+    },
+    {
+      "id": "station_fischenthal",
+      "label": "B",
+      "code": "FI",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "754"
+    },
+    {
+      "id": "station_steg",
+      "label": "B",
+      "code": "STG",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "754"
+    },
+    {
+      "id": "station_turbenthal",
+      "label": "B",
+      "code": "TU",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "754"
+    },
+    {
+      "id": "station_rämismühle_zell",
+      "label": "B",
+      "code": "RMZ",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "754"
+    },
+    {
+      "id": "station_rikon",
+      "label": "B",
+      "code": "RN",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "754"
+    },
+    {
+      "id": "station_saland",
+      "label": "B",
+      "code": "SD",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "754"
+    },
+    {
+      "id": "station_wila",
+      "label": "B",
+      "code": "WILA",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "754"
+    },
+    {
+      "id": "station_kollbrunn",
+      "label": "B",
+      "code": "KOL",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "754"
+    },
+    {
+      "id": "station_sennhof_kyburg",
+      "label": "B",
+      "code": "SKY",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "754"
+    },
+    {
+      "id": "station_winterthur_seen",
+      "label": "B",
+      "code": "WSEE",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "754"
+    },
+    {
+      "id": "station_gibswil",
+      "label": "B",
+      "code": "GIB",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "754"
+    }
+  ],
+  "761": [
+    {
+      "id": "station_berg",
+      "label": "B",
+      "code": "BERG",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "761"
+    },
+    {
+      "id": "station_siegershausen",
+      "label": "B",
+      "code": "SHAU",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "761"
+    },
+    {
+      "id": "station_lengwil",
+      "label": "B",
+      "code": "LENG",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "761"
+    },
+    {
+      "id": "station_kreuzlingen_bernrain",
+      "label": "B",
+      "code": "KRB",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "761"
+    },
+    {
+      "id": "station_bronschhofen_amp",
+      "label": "B",
+      "code": "BROA",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "761"
+    },
+    {
+      "id": "station_bronschofen",
+      "label": "B",
+      "code": "BRO",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "761"
+    },
+    {
+      "id": "station_bettwiesen",
+      "label": "B",
+      "code": "BTW",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "761"
+    },
+    {
+      "id": "station_tobel_affeltrangen",
+      "label": "B",
+      "code": "TOA",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "761"
+    },
+    {
+      "id": "station_märwil",
+      "label": "B",
+      "code": "MAE",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "761"
+    },
+    {
+      "id": "station_bussnang",
+      "label": "B",
+      "code": "BNG",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "761"
+    },
+    {
+      "id": "station_oppikon",
+      "label": "B",
+      "code": "OPP",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "761"
+    },
+    {
+      "id": "station_tägherwilen_dorf",
+      "label": "B",
+      "code": "TAEM",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "761"
+    },
+    {
+      "id": "station_tägerschen",
+      "label": "B",
+      "code": "TAEN",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "761"
+    },
+    {
+      "id": "station_tlt",
+      "label": "B",
+      "code": null,
+      "typ": "unoccupied_station",
+      "tanklager": null,
+      "line": "761"
+    },
+    {
+      "id": "station_oberwintherthur_ua-6",
+      "label": "B",
+      "code": "AHAU",
+      "typ": "unoccupied_station",
+      "tanklager": null,
+      "line": "761"
+    }
+  ],
+  "771": [
+    {
+      "id": "station_schlatt",
+      "label": "B",
+      "code": "SCHT",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "771"
+    },
+    {
+      "id": "station_langwiesen",
+      "label": "B",
+      "code": "LAN",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "771"
+    },
+    {
+      "id": "station_st_katharinental",
+      "label": "B",
+      "code": "STKT",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "771"
+    },
+    {
+      "id": "station_diessenhofen",
+      "label": "B",
+      "code": "DSH",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "771"
+    },
+    {
+      "id": "station_stein_am_rhein",
+      "label": "B",
+      "code": "STR",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "771"
+    },
+    {
+      "id": "station_eschenz",
+      "label": "B",
+      "code": "EZ",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "771"
+    },
+    {
+      "id": "station_mammern",
+      "label": "B",
+      "code": "MAM",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "771"
+    },
+    {
+      "id": "station_schlattingen",
+      "label": "B",
+      "code": "SCHN",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "771"
+    },
+    {
+      "id": "station_steckborn",
+      "label": "B",
+      "code": "STK",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "771"
+    },
+    {
+      "id": "station_ermatingen",
+      "label": "B",
+      "code": "ERM",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "771"
+    },
+    {
+      "id": "station_tägerwilen_gottlieben",
+      "label": "B",
+      "code": "TAEG",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "771"
+    },
+    {
+      "id": "station_kreuzlingen",
+      "label": "B",
+      "code": "KR",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "771"
+    },
+    {
+      "id": "station_berlingen",
+      "label": "B",
+      "code": "BER",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "771"
+    },
+    {
+      "id": "station_etwwilen",
+      "label": "B",
+      "code": "EW",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "771"
+    },
+    {
+      "id": "station_feuerthalen",
+      "label": "B",
+      "code": "FT",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "771"
+    },
+    {
+      "id": "station_mannenbach",
+      "label": "B",
+      "code": "MANN",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "771"
+    },
+    {
+      "id": "station_triboltingen",
+      "label": "B",
+      "code": "TRIB",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "771"
+    }
+  ],
+  "772": [
+    {
+      "id": "station_kreuzlingen_hafen",
+      "label": "B",
+      "code": "KRH",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "772"
+    },
+    {
+      "id": "station_arbon",
+      "label": "B",
+      "code": "ARB",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "772"
+    },
+    {
+      "id": "station_münsterlingen_scherzingen",
+      "label": "B",
+      "code": "MSCH",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "772"
+    },
+    {
+      "id": "station_altnau",
+      "label": "B",
+      "code": "ALN",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "772"
+    },
+    {
+      "id": "station_güttingen",
+      "label": "B",
+      "code": "GUET",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "772"
+    },
+    {
+      "id": "station_uttwil",
+      "label": "B",
+      "code": "UTW",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "772"
+    },
+    {
+      "id": "station_arbon_seemoosriet",
+      "label": "B",
+      "code": "ARBS",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "772"
+    },
+    {
+      "id": "station_steinach",
+      "label": "B",
+      "code": "STCH",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "772"
+    },
+    {
+      "id": "station_horn",
+      "label": "B",
+      "code": "HN",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "772"
+    },
+    {
+      "id": "station_rorschach_hafen",
+      "label": "B",
+      "code": "RSHF",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "772"
+    },
+    {
+      "id": "station_egnach",
+      "label": "B",
+      "code": "EGN",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "772"
+    },
+    {
+      "id": "station_konstanz",
+      "label": "B",
+      "code": "KO",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "772"
+    },
+    {
+      "id": "station_bottighofen",
+      "label": "B",
+      "code": "BOT",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "772"
+    },
+    {
+      "id": "station_kurzrickenbach _seepark",
+      "label": "B",
+      "code": "KURZ",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "772"
+    },
+    {
+      "id": "station_kesswil",
+      "label": "B",
+      "code": "KWL",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "772"
+    },
+    {
+      "id": "station_landschlacht",
+      "label": "B",
+      "code": "LDS",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "772"
+    },
+    {
+      "id": "station_münsterlingen_spital",
+      "label": "B",
+      "code": "MSPI",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "772"
+    }
+  ],
+  "781": [
+    {
+      "id": "station_rothenthurm",
+      "label": "B",
+      "code": "RTT",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "781"
+    },
+    {
+      "id": "station_biberbrugg",
+      "label": "B",
+      "code": "BIB",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "781"
+    },
+    {
+      "id": "station_schindellegi_feusisberg",
+      "label": "B",
+      "code": "SCHI",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "781"
+    },
+    {
+      "id": "station_freienbach_sob",
+      "label": "B",
+      "code": "FRBS",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "781"
+    },
+    {
+      "id": "station_altmatt",
+      "label": "B",
+      "code": "AT",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "781"
+    }
+  ],
+  "782": [
+    {
+      "id": "station_burghalden",
+      "label": "B",
+      "code": "BGH",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "782"
+    },
+    {
+      "id": "station_samstagern",
+      "label": "B",
+      "code": "SAM",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "782"
+    }
+  ],
+  "791": [
+    {
+      "id": "station_herisau",
+      "label": "B",
+      "code": "HE",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "791"
+    },
+    {
+      "id": "station_st_gallen_haggen",
+      "label": "B",
+      "code": "SGHA",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "791"
+    },
+    {
+      "id": "station_gübsensee",
+      "label": "B",
+      "code": "GUEB",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "791"
+    },
+    {
+      "id": "station_brunnadern_neckertal",
+      "label": "B",
+      "code": "BRN",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "791"
+    },
+    {
+      "id": "station_mogelsberg",
+      "label": "B",
+      "code": "MOG",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "791"
+    },
+    {
+      "id": "station_degerseheim",
+      "label": "B",
+      "code": "DG",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "791"
+    },
+    {
+      "id": "station_schachen",
+      "label": "B",
+      "code": "SCH",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "791"
+    },
+    {
+      "id": "station_wittenbach",
+      "label": "B",
+      "code": "WIT",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "791"
+    },
+    {
+      "id": "station_roggwil_berg",
+      "label": "B",
+      "code": "ROBG",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "791"
+    },
+    {
+      "id": "station_neukirch_egnach",
+      "label": "B",
+      "code": "NK",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "791"
+    },
+    {
+      "id": "station_steinebrunn",
+      "label": "B",
+      "code": "STB",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "791"
+    },
+    {
+      "id": "station_häggenschwil_winden",
+      "label": "B",
+      "code": "HAEW",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "791"
+    },
+    {
+      "id": "station_muolen",
+      "label": "B",
+      "code": "MUO",
+      "typ": "Station",
+      "tanklager": null,
+      "line": "791"
+    },
+    {
+      "id": "station_tl-häggenschwil_winden",
+      "label": "B",
+      "code": null,
+      "typ": "unoccupied_station",
+      "tanklager": null,
+      "line": "791"
+    }
+  ],
+  "unknown": [
+    {
+      "id": "station_chiasso",
+      "label": "B",
+      "code": null,
+      "typ": "Station",
+      "tanklager": null,
+      "line": "unknown"
+    }
+  ]
+}
