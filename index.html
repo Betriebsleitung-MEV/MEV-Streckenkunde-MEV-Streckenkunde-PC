@@ -218,7 +218,7 @@
   const toast = (m) => { const t=$('toast'); t.textContent=m; t.classList.add('show'); setTimeout(()=>t.classList.remove('show'), 2200); };
   const setDirty = (v) => $('dirty').textContent = v ? 'nicht gespeichert' : '';
   const st = {
-    person: {vorname:'', nachname:'', datum:'', personalnummer:''},
+    person: {vorname:'', nachname:'', datum:'', personalnummer:'', mail:'', tel:'', abteilung:''},
     employees: [],
     routes: {},
     routeSegmentsOrdered: {},
@@ -469,13 +469,17 @@
     if(!hits.length){ host.innerHTML='<div class="hint">Keine Treffer.</div>'; return; }
     hits.forEach(e=>{
       const div=document.createElement('div'); div.className='item';
-      div.innerHTML=`<div class="desc"><b>${e.nachname} ${e.vorname}</b><div class="hint">Tippen zum übernehmen</div></div>`;
+      div.innerHTML=`<div class="desc"><b>${e.nachname} ${e.vorname}</b><div class="hint">${(e.mail||'').trim() || '(keine Mail)'}${e.tel?(' · '+e.tel):''}</div></div>`;
       const applyEmp = ()=>{
         $('vorname').value = e.vorname || '';
         $('nachname').value = e.nachname || '';
         $('pnr').value = String(e.personalnummer || '');
         $('datum').value = $('datum').value || (new Date()).toISOString().slice(0,10);
         syncPerson();
+        // Mail/Tel/Abteilung aus Auswahl übernehmen
+        st.person.mail = e.mail || '';
+        st.person.tel = e.tel || '';
+        st.person.abteilung = e.abteilung || '';
         toast('Mitarbeiter übernommen.');
       };
       let downEmp = null;
